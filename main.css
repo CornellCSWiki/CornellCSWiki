@@ -48,11 +48,34 @@ h1 {
 .entry-title {
     display: block;
     margin: 0 auto;
-    width: 50rem;
+    max-width: 50rem;
 }
 
 /** Utility Styles **/
 
 .sc {
     font-feature-settings: 'smcp';
+}
+
+/** Mobile versions **/
+
+@media (max-device-width: 640px) {
+    #site-header {
+        font-size: 1.5em;
+        margin: 0.5em auto;
+    }
+
+    h1 {
+        font-size: 1.75em;
+    }
+
+    .container {
+        padding: 0.5em;
+    }
+}
+
+@media (min-device-width: 481px) and (max-device-width: 768px) {
+    .container {
+        padding: 1em;
+    }
 }
