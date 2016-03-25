@@ -10,8 +10,8 @@ If you think you know a thing or two about Cornell CS, please clone the repo, ed
 If a page does not exist for a class you have taken, please do us all a favor and make one! You can copy paste the format of the [[Template Page]] to make your own, but don't feel constrained to those topics. This is not limited to only coursework. Contribute any resources or additional pages you think anyone may find useful!
 
 ## Handy Links
- - [FAQ](/faq) - Answers to some of the most commonly asked questions
- - [Becoming More Pro](/practice) - How to improve your CS skillz
+ - [FAQ](faq) - Answers to some of the most commonly asked questions
+ - [Becoming More Pro](practice) - How to improve your CS skillz
  - [Cornell CS Facebook Group](https://www.facebook.com/groups/CornellCS/) - Q&A, interesting links, and discussion
  - [Cornell CS Polls](#) - For fun or for survey
  - [ACSU Website](http://www.acsu.cornell.edu)
@@ -21,14 +21,14 @@ If a page does not exist for a class you have taken, please do us all a favor an
 ## Classes
 
 ### 1000
- - [CS 1110 - Introduction to Computing Using Python](/classes/CS1110)
- - [CS 1112 - Introduction to Computing Using MATLAB](/classes/CS1112)
+ - [CS 1110 - Introduction to Computing Using Python](classes/CS1110)
+ - [CS 1112 - Introduction to Computing Using MATLAB](classes/CS1112)
  - [CS 1114 - Introduction to Computing Using MATLAB and Robotics](/classes/CS1114)
- - [CS 1115 - Introduction to Computational Science and Engineering Using MATLAB Graphical User Iterfaces](/classes/CS1115)
- - [CS 1132 - Transition to MATLAB](/classes/CS1132)
- - [CS 1133 - Transition to Python](/classes/CS1133)
+ - [CS 1115 - Introduction to Computational Science and Engineering Using MATLAB Graphical User Iterfaces](classes/CS1115)
+ - [CS 1132 - Transition to MATLAB](classes/CS1132)
+ - [CS 1133 - Transition to Python](classes/CS1133)
  - CS 1300 - Introductory Design and Programming for the Web
- - [CS 1610 - Computing in the Arts](/classes/CS1610)
+ - [CS 1610 - Computing in the Arts](classes/CS1610)
  - CS 1620 - Visual Imaging in the Electronic Age
  - [CS 1710 - Introduction to Cognitive Science](/classes/CS1710)
  - [CS 1810 - Topics in the Analysis and Transmission of Knowledge and Information](/classes/CS1810)
