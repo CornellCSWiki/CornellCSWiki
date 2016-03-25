@@ -10,10 +10,13 @@ If you think you know a thing or two about Cornell CS, please clone the repo, ed
 If a page does not exist for a class you have taken, please do us all a favor and make one! You can copy paste the format of the [[Template Page]] to make your own, but don't feel constrained to those topics. This is not limited to only coursework. Contribute any resources or additional pages you think anyone may find useful!
 
 ## Handy Links
- - [FAQ]({{ site.baseurl }}/faq) - Answers to some of the most commonly asked questions
- - [Becoming More Pro](practice) - How to improve your CS skillz
- - [Cornell CS Facebook Group](https://www.facebook.com/groups/CornellCS/) - Q&A, interesting links, and discussion
- - [Cornell CS Polls](#) - For fun or for survey
+ - [FAQ]({{ site.baseurl }}/faq)—Answers to some of the most commonly asked questions
+ - [Becoming More Pro]({{ site.baseurl }}/resources/practice)—How to improve your CS skillz
+ - [I'm struggling in CS/I don't know if CS is right for me](#)—Never fear
+
+## CS Community Pages
+ - [Cornell CS Facebook Group](https://www.facebook.com/groups/CornellCS/)—Q&A, interesting links, and discussion
+ - [Cornell CS Polls](#)—For fun or for survey
  - [ACSU Website](http://www.acsu.cornell.edu)
  - [ACSU Facebook Page](https://www.facebook.com/CornellACSU)
  - [Your CS Career 2014](https://github.com/bcuccioli/superstar-talk/raw/master/pres.pdf)
