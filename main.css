@@ -45,6 +45,12 @@ h1 {
     font-size: 2.5em;
 }
 
+.entry-title {
+    display: block;
+    margin: 0 auto;
+    width: 50rem;
+}
+
 /** Utility Styles **/
 
 .sc {
