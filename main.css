@@ -58,6 +58,10 @@ h1 {
     font-size: 2.5em;
 }
 
+a[href="#"] {
+    color: #b31b1b;
+}
+
 .entry-title {
     display: block;
     margin: 0 auto;
