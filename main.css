@@ -1,0 +1,52 @@
+body {
+    font-family: source-sans-pro, sans-serif;
+    font-size: 1.25rem;
+    border-top: 1em solid #b31b1b;
+    margin: 0;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 50em;
+    text-align: left;
+}
+
+#site-header {
+    text-align: center;
+    font-size: 1.75em;
+    margin: 1em auto;
+}
+
+#page-content {
+    padding: 0 0 1em;
+}
+
+#site-footer {
+    background: #073949;
+    color: #FFF;
+    width: 100%;
+    text-align: center;
+    padding: 2em 0;
+}
+
+#site-footer a {
+    color: #FFF;
+}
+
+/** General Styles **/
+
+header, h1, h2, h3, h4, h5, h6 {
+    font-family: gentium-basic, serif;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.5em;
+}
+
+/** Utility Styles **/
+
+.sc {
+    font-feature-settings: 'smcp';
+}
