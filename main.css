@@ -96,6 +96,35 @@ td {
     .container {
         padding: 0.5em;
     }
+
+    table.past-offerings thead {
+        display: none;
+    }
+    table.past-offerings tr {
+        background: none;
+        border-bottom: 1px solid #222;
+    }
+    table.past-offerings td {
+        display: block;
+    }
+
+    table.past-offerings td:before {
+        font-weight: bold;
+        display: block;
+    }
+
+    table.past-offerings td:nth-child(1):before {
+        content: "Semester";
+    }
+    table.past-offerings td:nth-child(2):before {
+        content: "Time";
+    }
+    table.past-offerings td:nth-child(3):before {
+        content: "Instructor";
+    }
+    table.past-offerings td:nth-child(4):before {
+        content: "Median Grade";
+    }
 }
 
 @media (min-device-width: 481px) and (max-device-width: 768px) {
