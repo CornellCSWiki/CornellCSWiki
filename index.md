@@ -9,6 +9,11 @@ If you think you know a thing or two about Cornell CS, please clone the repo, ed
 
 If a page does not exist for a class you have taken, please do us all a favor and make one! You can copy paste the format of the [[Template Page]] to make your own, but don't feel constrained to those topics. This is not limited to only coursework. Contribute any resources or additional pages you think anyone may find useful!
 
+Want to add your thoughts? See a class that needs info? [Contribute to this wiki!](#)
+
+* TOC
+{:toc}
+
 ## Handy Links
  - [FAQ]({{ site.baseurl }}/faq)—Answers to some of the most commonly asked questions
  - [Becoming More Pro]({{ site.baseurl }}/resources/practice)—How to improve your CS skillz
@@ -23,7 +28,15 @@ If a page does not exist for a class you have taken, please do us all a favor an
  - [ACSU Facebook Page](https://www.facebook.com/CornellACSU)
  - [Your CS Career 2014](https://github.com/bcuccioli/superstar-talk/raw/master/pres.pdf)
 
-## Classes
+## The CS Major/Minor
+
+- [Graduation Requirements](#)
+- [External Specializations](#)
+- [Liberal Studies](#)
+- [Choosing a Vector](#)
+- [Choosing a Practicum](#)
+
+## CS Classes
 
 ### 1000
  - [CS 1110 - Introduction to Computing Using Python]({{ site.baseurl }}/classes/CS1110)
@@ -130,3 +143,11 @@ If a page does not exist for a class you have taken, please do us all a favor an
  - CS 6830 - Cryptography
  - [CS 6840 - Algorithmic Game Theory]({{ site.baseurl }}/classes/CS6840)
  - [CS 6850 - The Structure of Information Networks]({{ site.baseurl }}/classes/CS6850)
+
+## CS-Related Classes
+
+## Clubs and Project Teams
+
+## Getting Involved in CS/Open Source
+
+## Career Advice
