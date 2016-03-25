@@ -17,6 +17,15 @@ body {
     margin: 1em auto;
 }
 
+#site-header a:link, #site-header a:visited, #site-header a:active {
+    color: inherit;
+    text-decoration: none;
+}
+
+#site-header a:hover {
+    text-decoration: underline;
+}
+
 #page-content {
     padding: 0 0 1em;
 }
@@ -78,6 +87,7 @@ td {
 /** Utility Styles **/
 
 .sc {
+    font-variant-caps: small-caps;
     font-feature-settings: 'smcp';
 }
 

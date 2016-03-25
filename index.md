@@ -5,11 +5,7 @@ layout: default
 
 ## Welcome to the Cornell Computer Science Wiki
 
-If you think you know a thing or two about Cornell CS, please clone the repo, edit and PR. Share your wisdom with the community!
-
-If a page does not exist for a class you have taken, please do us all a favor and make one! You can copy paste the format of the [[Template Page]] to make your own, but don't feel constrained to those topics. This is not limited to only coursework. Contribute any resources or additional pages you think anyone may find useful!
-
-Want to add your thoughts? See a class that needs info? [Contribute to this wiki!](#)
+Want to add your thoughts? See a class that needs info? [Contribute to this wiki!](#) This is not limited to only coursework. Contribute any resources or additional pages you think anyone may find useful! If a page does not exist for a class you have taken, please do us all a favor and make one!
 
 * TOC
 {:toc}
@@ -37,6 +33,8 @@ Want to add your thoughts? See a class that needs info? [Contribute to this wiki
 - [Choosing a Practicum](#)
 
 ## CS Classes
+
+- [What do I take next?](#)
 
 ### 1000
  - [CS 1110 - Introduction to Computing Using Python]({{ site.baseurl }}/classes/CS1110)
