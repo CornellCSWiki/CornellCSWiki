@@ -23,10 +23,14 @@ body {
 
 #site-footer {
     background: #073949;
-    color: #FFF;
+    color: #d8d2c9;
     width: 100%;
     text-align: center;
     padding: 2em 0;
+}
+
+#site-footer .container {
+    max-width: 35em;
 }
 
 #site-footer a {
@@ -49,6 +53,26 @@ h1 {
     display: block;
     margin: 0 auto;
     max-width: 50rem;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    font-weight: normal;
+    border-bottom: 1px solid #222;
+    padding: 0.25em 0.75em 0.25em 0;
+    white-space: nowrap;
+}
+
+tr:nth-child(2n) {
+    background: #d8d2c9;
+}
+
+td {
+    vertical-align: top;
+    padding: 0.25em 0.75em 0.25em 0;
 }
 
 /** Utility Styles **/
