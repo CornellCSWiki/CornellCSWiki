@@ -10,6 +10,8 @@ This wiki is cool, right? But you know what would make it even better? Your help
 
 ## Make a Github Account
 
+Go to [Github](https://github.com) and sign up. You'll need to confirm your email address before you can do anything else.
+
 Already have one? Skip down to either [Editing a Page](#editing-a-page) or [Making a New Page](#making-a-new-page).
 
 ## Editing a Page
@@ -28,6 +30,15 @@ Making a completely new page is pretty simple, too. Like editing a page, just vi
 - [Class info page](#)
 - More to come!
 
+You'll want to edit the page title at the top of the document, which looks something like this:
+
+```yaml
+---
+layout: article
+title: Contributing Guide
+---
+```
+
 ## About Markdown
 
 [Markdown](https://daringfireball.net/projects/markdown/) is a simple way to add formatting to plain text documents. You write a document using whatever editor you want, sprinkling in \**asterisks*\* to italicize your text and __ __underscores__ __ to bold it. Some more formatting:
@@ -41,22 +52,41 @@ Making a completely new page is pretty simple, too. Like editing a page, just vi
 
 And add a heading with some `## Hashtags`.
 
+There's also some Markdown formatting specific to the software we're using for this wiki, [Jekyll](https://jekyllrb.com/). In particular, you might notice a section like this at the top of every page:
+
+```yaml
+---
+layout: article
+title: Contributing Guide
+---
+```
+
+This is just metadata that tells Jekyll what page template to use and what the page title is.
+
 ## Getting Your Changes Reviewed
 
-At the bottom of the editor, you'll find a place to describe your changes. Github gives you two boxes: one for a short summary of the contribution, and an optional long description. Together, these make a commit message. Write up a little summary of what you did, like "Added page on contributing", "Added median grade to CS 1110 Spring 2015", or "Fixed typos in CS 2112 page". Once you're done, hit "Propose new file". This will make a *pull request* 
+At the bottom of the editor, you'll find a place to describe your changes. Github gives you two boxes: one for a short summary of the contribution, and an optional long description. Together, these make up the Git commit message. Write up a little summary of what you did, like "Added page on contributing", "Added median grade to CS 1110 Spring 2015", or "Fixed typos in CS 2112 page". Once you're done, hit "Propose new file". This will make a *pull request*, which is a fancy way of saying that Github will let us know about your changes, and we can review them before integrating them into the wiki. Github presents a summary of what you're doing—don't worry about this and just choose to "Make a pull request".
 
-Congratulations, you're a contributor! You've just made your first contributions to open source.
+Sometimes, we might ask you to make a few changes—maybe there's a few typos, maybe there's a formatting thing, or maybe we'd like the page to be structured like other similar pages. In these cases, we'll help you with Git and Github, and teach you a little bit more about contributing to open source in the process. Most of the time, as soon as we get around to reviewing your changes, we'll just accept them.
+
+Congratulations, you're a contributor! If you've never done this before, then even better—you've just made your first contribution to open source.
 
 ## What Next
 
+There's always more work to be done! Maybe take a look at our [TODOs](#). If you're interested in the open-source aspect, read on.
+
 ### Open Source
 
-When you make a contribution, you don't just hand off ownership of your work to us. Everything here is under a *license*, which says what we—and you—can and cannot do with it. In our case, we're using the TODO license, which says TODO. These ideas derive from the *free software movement*, which is about free (as in freedom) software. TODO: extended description.
+When you make a contribution, you don't just hand off ownership of your work to us. Everything here is under a *license*, which says what we—and you—can and cannot do with it. In our case, we're using the TODO license, which says TODO. These ideas derive from the *free software movement*, which is about free (as in freedom) software. In short, free software means that you have the freedom to run and modify the software, and the freedom to let others run, modify, and distribute the software as well.
 
-If you're intrigued, drop by OpenSourceCornell sometime and we'll show you what free & open source software is all about.
+If you're intrigued, drop by OpenSourceCornell sometime and we'll show you what free & open source software is all about. You can also check out the [Free Software Foundation](http://www.fsf.org/).
 
 ### Forking
 
-What is all this Git nonsense anyways?
+What is all this Git nonsense anyways? We'll leave out the discussion of what Git is for now, but forking and pull requests are the model that Github uses for contributing. Note that what *Github* does isn't necessarily the same as what *open source projects in general* do!
+
+A fork is just a copy of a Git repository. A pull request is a set of changes that the owner of the fork wants to send back to the original, *upstream* repository.
 
 ## Joining the Team
+
+As you've no doubt noticed, this is a student-run wiki. We do have some reviewing and moderation—this is just to keep out spam, and so that we can introduce people to open source/Git as well. If you're interested in working with us, drop us an email. TODO: contact info.
