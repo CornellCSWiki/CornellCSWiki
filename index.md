@@ -11,9 +11,9 @@ Want to add your thoughts? See a class that needs info? [Contribute to this wiki
 {:toc}
 
 ## Handy Links
- - [FAQ]({{ site.baseurl }}/faq)—Answers to some of the most commonly asked questions
+ - [[ FAQ ]]—Answers to some of the most commonly asked questions
  - [Becoming More Pro]({{ site.baseurl }}/resources/practice)—How to improve your CS skillz
- - [I'm struggling in CS/I don't know if CS is right for me](#)—Never fear
+ - [[Never Fear | I'm struggling in CS/I don't know if CS is right for me]]—Never fear
 
 ## CS Community Pages
  - [Cornell CS Facebook Group](https://www.facebook.com/groups/CornellCS/)—Q&A, interesting links, and discussion
