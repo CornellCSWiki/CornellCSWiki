@@ -5,7 +5,7 @@ layout: default
 
 ## Welcome to the Cornell Computer Science Wiki
 
-Want to add your thoughts? See a class that needs info? [Contribute to this wiki!](#) This is not limited to only coursework. Contribute any resources or additional pages you think anyone may find useful! If a page does not exist for a class you have taken, please do us all a favor and make one!
+Want to add your thoughts? See a class that needs info? [[Contribute to this wiki!]] This is not limited to only coursework. Contribute any resources or additional pages you think anyone may find useful! If a page does not exist for a class you have taken, please do us all a favor and make one!
 
 * TOC
 {:toc}
@@ -17,24 +17,24 @@ Want to add your thoughts? See a class that needs info? [Contribute to this wiki
 
 ## CS Community Pages
  - [Cornell CS Facebook Group](https://www.facebook.com/groups/CornellCS/)—Q&A, interesting links, and discussion
- - [Cornell CS Polls](#)—For fun or for survey
+ - [[Cornell CS Polls]]—For fun or for survey
  - [ACSU Website](http://www.acsu.cornell.edu)
- - [OpenSourceCornell](#)—whose members now maintain this wiki (and [you can, too](#)!)
- - [WICC](#)—Women in Computing at Cornell
+ - [[OpenSourceCornell]]—whose members now maintain this wiki (and [[you can, too]]!)
+ - [[WICC]]—Women in Computing at Cornell
  - [ACSU Facebook Page](https://www.facebook.com/CornellACSU)
  - [Your CS Career 2014](https://github.com/bcuccioli/superstar-talk/raw/master/pres.pdf)
 
 ## The CS Major/Minor
 
-- [Graduation Requirements](#)
-- [External Specializations](#)
-- [Liberal Studies](#)
-- [Choosing a Vector](#)
-- [Choosing a Practicum](#)
+- [[Graduation Requirements]]
+- [[External Specializations]]
+- [[Liberal Studies]]
+- [[Choosing a Vector]]
+- [[Choosing a Practicum]]
 
 ## CS Classes
 
-- [What do I take next?](#)
+- [[What do I take next?]]
 
 ### 1000
  - [CS 1110—Introduction to Computing Using Python]({{ site.baseurl }}/classes/CS1110)
