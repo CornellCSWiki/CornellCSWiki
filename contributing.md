@@ -8,13 +8,17 @@ This wiki is cool, right? But you know what would make it even better? Your help
 * TOC
 {:toc}
 
+## You Don't Have to Write
+
+If you're not feeling like writing, you can still help us out! Suggestions, corrections, and comments are all welcome. Just [create an issue](https://github.com/CornellCSWiki/testwiki/issues).
+
 ## Make a Github Account
 
 Go to [Github](https://github.com) and sign up. You'll need to confirm your email address before you can do anything else.
 
 Already have one? Skip down to either [Editing a Page](#editing-a-page) or [Making a New Page](#making-a-new-page).
 
-If you're feeling overwhelmed, [create an issue](https://github.com/CornellCSWiki/testwiki/issues) and one of us will help you out. We'd love to walk you through the process, and teach you about open source at the same time!
+If you're feeling overwhelmed, [create an issue](https://github.com/CornellCSWiki/testwiki/issues) and one of us will help you out. We'd love to walk you through the process, and teach you about open source at the same time! Just tell us what you're interested in working on.
 
 ## Editing a Page
 
@@ -29,7 +33,7 @@ Github will take care of the Git details for you—in particular, it'll automati
 
 Making a completely new page is pretty simple, too. Like editing a page, just visit our [repository](https://github.com/CornellCSWiki/testwiki) and click *New Page*. To make it easier, we have some templates you can copy:
 
-- [Class info page](#)
+- [[class_template | Class info page]]
 - More to come!
 
 You'll want to edit the page title at the top of the document, which looks something like this:
@@ -83,7 +87,7 @@ There's always more work to be done! Take a look at our [issues](https://github.
 
 When you make a contribution, you don't just hand off ownership of your work to us. Instead, your writing, like everything else here, will be placed under a *license*, which says what we—and you—can and cannot do with it. In our case, we're using the TODO license, which says TODO.
 
-These licenses ultimately derive from the *free software movement*, which is about free (as in freedom) software. In short, free software means that you have the freedom to run and modify the software, and the freedom to let others run, modify, and distribute the software as well. Open source is a fork (ha!) of this movement. If you're intrigued, drop by OpenSourceCornell sometime and we'll show you what free & open source software is all about. You can also check out the [Free Software Foundation](http://www.fsf.org/).
+These licenses ultimately derive from the *free software movement*, which is about free (as in freedom) software. In short, free software means that you have the freedom to run and modify the software, and the freedom to let others run, modify, and distribute the software as well. Open source is a fork (ha!) of this movement. If you're intrigued, drop by OpenSourceCornell sometime and we'll show you what free & open source software is all about. You can also check out the [Free Software Foundation](http://www.fsf.org/), [Free Culture Foundation](http://freeculture.org/) and [Open Source Initiative](https://opensource.org/).
 
 ### Forking
 
