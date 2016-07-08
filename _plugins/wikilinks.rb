@@ -56,7 +56,10 @@ module Jekyll
 
       def match_page(pages)
         @match = pages.find do |p|
-          p.basename.downcase == @name.downcase or match_title(p) == name or synonyms(p).any? { |s| s == name }
+          p.basename.downcase == @name.downcase or
+            p.basename.downcase.delete(' ').start_with? @name.downcase.delete(' ') or
+            match_title(p) == name or
+            synonyms(p).any? { |s| s == name }
         end
       end
 
