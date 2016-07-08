@@ -10,7 +10,7 @@ This wiki is cool, right? But you know what would make it even better? Your help
 
 ## You Don't Have to Write
 
-If you're not feeling like writing, you can still help us out! Suggestions, corrections, and comments are all welcome. Just [create an issue](https://github.com/CornellCSWiki/testwiki/issues).
+If you're not feeling like writing, you can still help us out! Suggestions, corrections, and comments are all welcome. Just [create an issue]({{ site.repository_issues }}).
 
 ## Make a Github Account
 
@@ -33,7 +33,7 @@ Github will take care of the Git details for you—in particular, it'll automati
 
 Making a completely new page is pretty simple, too. Like editing a page, just visit our [repository]({{ site.repository }}) and click *New Page*. To make it easier, we have some templates you can copy:
 
-- [Class info page template](https://github.com/CornellCSWiki/testwiki/blob/gh-pages/class_template.md) ([[class_template | rendered]])
+- [Class info page template]({{ site.repository }}/blob/gh-pages/class_template.md) ([[class_template | rendered]])
 - More to come!
 
 You'll want to edit the page title at the top of the document, which looks something like this:
@@ -81,7 +81,7 @@ Congratulations, you're a contributor! If you've never done this before, then ev
 
 ## What Next
 
-There's always more work to be done! Take a look at our [issues](https://github.com/CornellCSWiki/testwiki/issues), and comment on anything you'd like to work on. We'll help you through the rest. If you're interested in the open-source aspect, read on.
+There's always more work to be done! Take a look at our [issues]({{ site.repository_issues }}), and comment on anything you'd like to work on. We'll help you through the rest. If you're interested in the open-source aspect, read on.
 
 ### Open Source
 
