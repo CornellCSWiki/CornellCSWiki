@@ -41,6 +41,7 @@ module Jekyll
         not @match.nil?
       end
 
+      # TODO: also allow properties to specify a "wikilink title" to match against
       def match_post(posts)
         @match = posts.docs.find { |p| p.slug.downcase == @name.downcase or match_title(p) == name }
       end

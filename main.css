@@ -1,24 +1,27 @@
 body {
     font-family: source-sans-pro, sans-serif;
     font-size: 1.25rem;
-    border-top: 1em solid #b31b1b;
     margin: 0;
+    padding: 0;
 }
 
 .container {
-    margin: 0 auto;
+    margin: 1em auto 0;
     max-width: 50em;
     text-align: left;
 }
 
 #site-header {
+    background: #b31b1b;
     text-align: center;
     font-size: 1.75em;
-    margin: 1em auto;
+    margin: 0 auto;
+    padding: 1.5rem 0;
+    border-bottom: 1px solid #000;
 }
 
 #site-header a:link, #site-header a:visited, #site-header a:active {
-    color: inherit;
+    color: #FFF;
     text-decoration: none;
 }
 

@@ -1,35 +1,36 @@
 <!doctype html>
 
 <html>
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>COCS Wiki - {{ page.title }}</title>
-        <script src="//use.edgefonts.net/source-sans-pro:n4,i4,n7,i7:all;source-code-pro:n4,n7:all;gentium-basic:n4,i4,n7,i7:all.js"></script>
-        <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/main.css" />
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.min.css" />
-    </head>
-    <body>
-        <div class="container">
-            <header id="site-header">
-                <a href="{{ site.baseurl }}/">Cornell Open CS Wiki</a>
-            </header>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>COCS Wiki - {{ page.title }}</title>
+    <script src="//use.edgefonts.net/source-sans-pro:n4,i4,n7,i7:all;source-code-pro:n4,n7:all;gentium-basic:n4,i4,n7,i7:all.js"></script>
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/main.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.min.css" />
+  </head>
+  <body>
+    <header id="site-header">
+      <a href="{{ site.baseurl }}/">Unofficial Cornell Open CS Wiki</a>
+    </header>
+    <div class="container">
 
-            <main id="page-content">
-                {{ content }}
+      <main id="page-content">
+        {{ content }}
 
-                <a href="{{site.repository}}/edit/gh-pages/{{page.path}}">Edit this page on Github: {{ page.path }}</a>
-            </main>
+        <a href="{{site.repository}}/edit/gh-pages/{{page.path}}">Edit this page on Github: {{ page.path }}</a>
+      </main>
 
-        </div>
-        <footer id="site-footer">
-            <div class="container">
-                <h2>About this site</h2>
-                <p>In the olden days of Cornell CS there was a wiki that ACSU maintained. Over the years it deteriorated, and eventually it was migrated to Wikia. Unfortunately, Wikia places ads on the wiki, and the wiki because used even less frequently. Fortunately, Kevin Chavez from OpenSourceCornell had saved the wiki as Markdown, and so the club members decided to migrate it to this site, which you are now reading.</p>
-                <p class="sc">&copy; 2016 Cornell CS Community · <a href="#">Source/Contribute</a> · <a href="#">License</a></p>
-            </div>
-        </footer>
+    </div>
+    <footer id="site-footer">
+      <div class="container">
+        <h2>About this site</h2>
+        <p>In the olden days of Cornell CS there was a wiki that ACSU maintained. Over the years it deteriorated, and eventually it was migrated to Wikia. Unfortunately, Wikia places ads on the wiki, and the wiki because used even less frequently. Fortunately, Kevin Chavez from OpenSourceCornell had saved the wiki as Markdown, and so the club members decided to migrate it to this site, which you are now reading.</p>
+        <p>This site is <em>not</em> sponsored by or endorsed by Cornell or the Computer Science department at Cornell. It is entirely student-run and student-written.</p>
+        <p class="sc">&copy; 2016 Cornell CS Community · <a href="{{site.repository}}">Source</a> · <a href="{{ site.baseurl }}/contributing.html">Contribute</a> · <a href="#">License</a></p>
+      </div>
+    </footer>
 
-        <a class="github-fork-ribbon" href="{{site.repository}}/edit/gh-pages/{{page.path}}" title="Edit me on GitHub">Edit me on GitHub</a>
-    </body>
+    <a class="github-fork-ribbon" href="{{site.repository}}/edit/gh-pages/{{page.path}}" title="Edit me on GitHub">Edit me on GitHub</a>
+  </body>
 </html>
