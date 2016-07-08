@@ -18,11 +18,11 @@ Go to [Github](https://github.com) and sign up. You'll need to confirm your emai
 
 Already have one? Skip down to either [Editing a Page](#editing-a-page) or [Making a New Page](#making-a-new-page).
 
-If you're feeling overwhelmed, [create an issue](https://github.com/CornellCSWiki/testwiki/issues) and one of us will help you out. We'd love to walk you through the process, and teach you about open source at the same time! Just tell us what you're interested in working on.
+If you're feeling overwhelmed, [create an issue]({{site.repository_issues}}) and one of us will help you out. We'd love to walk you through the process, and teach you about open source at the same time! Just tell us what you're interested in working on.
 
 ## Editing a Page
 
-If you've heard about Git or Github and how difficult it can't be, don't worry. Github makes it easy with a web interface. Just visit our [repository](https://github.com/CornellCSWiki/testwiki) and find the page you want to edit. Then just hit the edit button!
+If you've heard about Git or Github and how difficult it can't be, don't worry. Github makes it easy with a web interface. Just visit our [repository]({{ site.repository }}) and find the page you want to edit. Then just hit the edit button!
 
 <!-- TODO: add screenshot of the button. How do I/can I do this from the web interface? -->
 <!-- TODO: is there some way to avoid hardcoding the repository link? Maybe use a site variable -->
@@ -31,9 +31,9 @@ Github will take care of the Git details for you—in particular, it'll automati
 
 ## Making a New Page
 
-Making a completely new page is pretty simple, too. Like editing a page, just visit our [repository](https://github.com/CornellCSWiki/testwiki) and click *New Page*. To make it easier, we have some templates you can copy:
+Making a completely new page is pretty simple, too. Like editing a page, just visit our [repository]({{ site.repository }}) and click *New Page*. To make it easier, we have some templates you can copy:
 
-- [[class_template | Class info page]]
+- [Class info page template](https://github.com/CornellCSWiki/testwiki/blob/gh-pages/class_template.md) ([[class_template | rendered]])
 - More to come!
 
 You'll want to edit the page title at the top of the document, which looks something like this:
