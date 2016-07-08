@@ -61,7 +61,7 @@ module Jekyll
       alias old_convert convert
 
       def convert(content)
-        pat = /\[\[(.+?)\]\]/
+        pat = /\[\[([^\]]+?)\]\]/
         content = content.gsub(pat) do |m|
           wl = Wikilinks::Wikilink.parse(m)
           wl.match_page(Jekyll.sites[0].pages)
