@@ -33,6 +33,14 @@ module Jekyll
 	end
       end
 
+      def synonyms(m)
+        if not m.data.nil? and m.data.include? 'wikilinks'
+          m.data['wikilinks']
+        else
+          []
+        end
+      end
+
       def url
         "#{Jekyll.sites[0].baseurl}#{@match.url}"
       end
@@ -47,7 +55,9 @@ module Jekyll
       end
 
       def match_page(pages)
-        @match = pages.find { |p| p.basename.downcase == @name.downcase or match_title(p) == name }
+        @match = pages.find do |p|
+          p.basename.downcase == @name.downcase or match_title(p) == name or synonyms(p).any? { |s| s == name }
+        end
       end
 
       def markdown
