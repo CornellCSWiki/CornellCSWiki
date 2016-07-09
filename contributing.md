@@ -5,6 +5,8 @@ title: Contributing Guide
 
 This wiki is cool, right? But you know what would make it even better? Your help! This site was started by students just like you, and we need your help in keeping it up-to-date and adding new content.
 
+[[ List of Contributors ]]
+
 * TOC
 {:toc}
 

@@ -26,6 +26,8 @@ No.
 
 [[ Contributing ]]
 
+Also check out the [[ List of Contributors ]].
+
 ## Can I contribute anonymously?
 
 Yes, of course. While Git makes this a bit harder than with MediaWiki, please [email us](mailto:{{ site.moderators_email }}) (from a throwaway email) and we will be happy to add content on your behalf.

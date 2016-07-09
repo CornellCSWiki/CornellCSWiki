@@ -17,7 +17,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [[ Practice & Challenges ]]—How to improve your CS skills
  - [[Never Fear | I'm struggling in CS/I don't know if CS is right for me]]—Never fear
  - [[ meta | About this wiki ]]
- - [[ Contributing Guide ]]
+ - [[ Contributing Guide ]] and [[ List of Contributors ]]
 
 ## CS Community Pages
  - [Cornell CS Facebook Group](https://www.facebook.com/groups/CornellCS/)—Q&A, interesting links, and discussion
