@@ -14,7 +14,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 
 ## Handy Links
  - [[ FAQ ]]—Answers to some of the most commonly asked questions
- - [Becoming More Pro]({{ site.baseurl }}/resources/practice.html)—How to improve your CS skillz
+ - [[ Practice & Challenges ]]—How to improve your CS skills
  - [[Never Fear | I'm struggling in CS/I don't know if CS is right for me]]—Never fear
  - [[ meta | About this wiki ]]
 

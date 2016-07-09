@@ -1,5 +1,5 @@
 ---
-title: Becoming More Pro
+title: Practice & Challenges
 layout: article
 ---
 
@@ -21,6 +21,6 @@ Are you a computer science student? Need practice coding? Want to learn somethin
 
  - [Rails Tutorial](https://www.railstutorial.org/book) Build Twitter from the ground up with Ruby on Rails; can take anywhere from a weekend to a month, pending your skill level and commitment. This will get you some serious skill and I would encourage you to put it on your resume if you complete it.
 
- - [Project Euler](https://projecteuler.net/) Solve interesting problem. The first few are relatively simple and can be solved even without a computer but they quickly become more difficult (and interesting).
+ - [Project Euler](https://projecteuler.net/) Solve interesting problems. The first few are relatively simple and can be solved even without a computer but they quickly become more difficult (and interesting).
 
  - [RTFM](https://www.kernel.org/doc/man-pages/) Seriously.
