@@ -3,6 +3,9 @@ layout: article
 title: FAQ
 ---
 
+* TOC
+{:toc}
+
 ## Courses
 
 ### Should I take CS 2110 or CS 2112?
