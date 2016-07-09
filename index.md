@@ -17,6 +17,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [[ Practice & Challenges ]]—How to improve your CS skills
  - [[Never Fear | I'm struggling in CS/I don't know if CS is right for me]]—Never fear
  - [[ meta | About this wiki ]]
+ - [[ Contributing Guide ]]
 
 ## CS Community Pages
  - [Cornell CS Facebook Group](https://www.facebook.com/groups/CornellCS/)—Q&A, interesting links, and discussion
@@ -25,6 +26,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [[OpenSourceCornell]]—some of whose members now maintain this wiki (and [[Contributing Guide | you can, too]]!)
  - [[WICC]]—Women in Computing at Cornell
  - [ACSU Facebook Page](https://www.facebook.com/CornellACSU)
+ - [Awesome Cornell](https://github.com/OpenSourceCornell/awesome-cornell)—awesome (open source!) projects by your fellow Cornellians
  - [Your CS Career 2014](https://github.com/bcuccioli/superstar-talk/raw/master/pres.pdf)
 
 ## The CS Major/Minor
