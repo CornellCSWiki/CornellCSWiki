@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-## Welcome to the Unofficial Cornell Computer Science Wiki
+## Welcome to the Unofficial Cornell Open Computer Science Wiki
 
 Want to add your thoughts? See a class that needs info? [[ Contributing Guide | Contribute to this wiki!]] This is not limited to only coursework. Contribute any resources or additional pages you think anyone may find useful! If a page does not exist for a class you have taken, please do us all a favor and make one!
 
@@ -20,7 +20,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [Cornell CS Facebook Group](https://www.facebook.com/groups/CornellCS/)—Q&A, interesting links, and discussion
  - [[Cornell CS Polls]]—For fun or for survey
  - [ACSU Website](http://www.acsu.cornell.edu)
- - [[OpenSourceCornell]]—whose members now maintain this wiki (and [[you can, too]]!)
+ - [[OpenSourceCornell]]—some of whose members now maintain this wiki (and [[Contributing Guide | you can, too]]!)
  - [[WICC]]—Women in Computing at Cornell
  - [ACSU Facebook Page](https://www.facebook.com/CornellACSU)
  - [Your CS Career 2014](https://github.com/bcuccioli/superstar-talk/raw/master/pres.pdf)

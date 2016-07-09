@@ -8,7 +8,7 @@ layout: article
     >>> dir(this_wiki)
     ['index', 'faq', 'meta', 'classes/CS1110', ...]
 
-This is the Unofficial Cornell CS Wiki, a student-run project that aims to collect content about all things CIS at Cornell.
+This is the Unofficial Cornell Open CS Wiki, a student-run project that aims to collect content about all things CIS at Cornell.
 
 ## Who are you?
 
