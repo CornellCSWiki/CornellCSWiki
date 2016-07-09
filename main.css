@@ -97,6 +97,16 @@ td {
     padding: 0.25em 0.75em 0.25em 0;
 }
 
+table.what-do-i-take-next a {
+    display: block;
+}
+
+blockquote {
+    font-size: 0.875em;
+    font-style: italic;
+    margin: 1em 3em;
+}
+
 /** Utility Styles **/
 
 .sc {
