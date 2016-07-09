@@ -22,6 +22,8 @@ If you're not feeling like writing, you can still help us out! Suggestions, corr
 
 Interested? Read on.
 
+> If you would like to contribute anonymously, please [email us](mailto::{{ site.moderators_email }}) and we will help you. We suggest using a "throwaway" email, like one from mailinator.com.
+
 ## Make a Github Account
 
 Go to [Github](https://github.com) and sign up. You'll need to confirm your email address before you can do anything else.
