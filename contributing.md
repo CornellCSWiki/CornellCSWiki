@@ -12,6 +12,16 @@ This wiki is cool, right? But you know what would make it even better? Your help
 
 If you're not feeling like writing, you can still help us out! Suggestions, corrections, and comments are all welcome. Just [create an issue]({{ site.repository_issues }}).
 
+## 5 Easy Steps
+
+1. [Sign up for Github](https://github.com).
+2. Find the page you want to edit, and hit the edit ribbon in the top right.
+3. Summarize your changes at the bottom of the edit page.
+4. Make a pull request.
+5. We review the changes, and you become a contributor!
+
+Interested? Read on.
+
 ## Make a Github Account
 
 Go to [Github](https://github.com) and sign up. You'll need to confirm your email address before you can do anything else.
@@ -85,7 +95,7 @@ There's always more work to be done! Take a look at our [issues]({{ site.reposit
 
 ### Open Source
 
-When you make a contribution, you don't just hand off ownership of your work to us. Instead, your writing, like everything else here, will be placed under a *license*, which says what we—and you—can and cannot do with it. In our case, we're using the TODO license, which says TODO.
+When you make a contribution, you don't just hand off ownership of your work to us. Instead, your writing, like everything else here, will be placed under a *license*, which says what we—and you—can and cannot do with it. In our case, we're using the Creative Commons Attribution-ShareAlike 4.0 International license, which says anyone is free to use the content here, so long as they credit this resource and allow others to reuse their work. For a quick summary, see the [Creative Commons page](https://creativecommons.org/licenses/by-sa/4.0/).
 
 These licenses ultimately derive from the *free software movement*, which is about free (as in freedom) software. In short, free software means that you have the freedom to run and modify the software, and the freedom to let others run, modify, and distribute the software as well. Open source is a fork (ha!) of this movement. If you're intrigued, drop by OpenSourceCornell sometime and we'll show you what free & open source software is all about. You can also check out the [Free Software Foundation](http://www.fsf.org/), [Free Culture Foundation](http://freeculture.org/) and [Open Source Initiative](https://opensource.org/).
 

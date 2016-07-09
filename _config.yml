@@ -2,3 +2,4 @@ baseurl: /testwiki
 
 repository: "https://github.com/CornellCSWiki/testwiki"
 repository_issues: "https://github.com/CornellCSWiki/testwiki/issues"
+license: "https://github.com/CornellCSWiki/testwiki/blob/gh-pages/LICENSE"
