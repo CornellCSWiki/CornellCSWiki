@@ -54,7 +54,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [CS 1115—Introduction to Computational Science and Engineering Using MATLAB Graphical User Iterfaces]({{ site.baseurl }}/classes/CS1115.html)
  - [CS 1132—Transition to MATLAB]({{ site.baseurl }}/classes/CS1132.html)
  - [CS 1133—Transition to Python]({{ site.baseurl }}/classes/CS1133.html)
- - [[CS 1300]]—Introductory Design and Programming for the Web
+ - [[CS 1300]]
  - [CS 1610—Computing in the Arts]({{ site.baseurl }}/classes/CS1610.html)
  - [[CS 1620]]—Visual Imaging in the Electronic Age
  - [CS 1710—Introduction to Cognitive Science]({{ site.baseurl }}/classes/CS1710.html)
