@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-## Welcome to the Unofficial Cornell Open Computer Science Wiki
+## Welcome to the Unofficial Cornell Computer Science Wiki
 
 Want to add your thoughts? See a class that needs info? [[ Contributing Guide | Contribute to this wiki!]] This is not limited to only coursework. Contribute any resources or additional pages you think anyone may find useful! If a page does not exist for a class you have taken, please do us all a favor and make one!
 
