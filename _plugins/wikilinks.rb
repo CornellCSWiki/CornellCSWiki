@@ -57,14 +57,14 @@ module Jekyll
       def match_page(pages)
         @match = pages.find do |p|
           p.basename.downcase == @name.downcase or
-            p.basename.downcase.gsub(/[^0-9a-zA-Z]/, '').start_with? @name.downcase.gsub(/[^0-9a-zA-Z]/, '') or
+            p.basename.downcase.gsub(/[^\p{Alnum}]/, '').start_with? @name.downcase.gsub(/[^\p{Alnum}]/, '') or
             match_title(p) == name or
             synonyms(p).any? { |s| s == name }
         end
       end
 
       def markdown
-        "[#{title}](#{url} \"#{@name.gsub(/[^0-9a-zA-Z ]/, '').strip()}\")"
+        "[#{title}](#{url} \"#{@name.gsub(/[^\p{Alnum} ]/, '').strip()}\")"
       end
     end
   end
