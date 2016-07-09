@@ -42,7 +42,7 @@ module Jekyll
       end
 
       def url
-        "#{Jekyll.sites[0].baseurl}#{@match.url}"
+        @match.nil? ? "#" : "#{Jekyll.sites[0].baseurl}#{@match.url}"
       end
 
       def has_match?
@@ -64,7 +64,7 @@ module Jekyll
       end
 
       def markdown
-        @match.nil? ? "[#{title}](#)" : "[#{title}](#{url})"
+        "[#{title}](#{url} \"#{@name.gsub(/[^0-9a-zA-Z ]/, '').strip()}\")"
       end
     end
   end
