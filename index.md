@@ -100,7 +100,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [CS 4670—Introduction to Computer Vision]({{ site.baseurl }}/classes/CS4670.html)
  - [CS 4700—Foundations of Artificial Intelligence]({{ site.baseurl }}/classes/CS4700.html)
  - [CS 4701—Practicum in Artificial Intelligence]({{ site.baseurl }}/classes/CS4701.html)
- - [[CS 4740]]—Introduction to Natural Language Processing
+ - [[CS 4740]]
  - [CS 4758—Robot Learning]({{ site.baseurl }}/classes/CS4758.html)
  - [CS 4780—Machine Learning]({{ site.baseurl }}/classes/CS4780.html)
  - [CS 4810—Introduction to Theory of Computing]({{ site.baseurl }}/classes/CS4810.html)
