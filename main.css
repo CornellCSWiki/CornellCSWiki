@@ -107,6 +107,10 @@ blockquote {
     margin: 1em 3em;
 }
 
+pre {
+    overflow-x: auto;
+}
+
 /** Utility Styles **/
 
 .sc {
