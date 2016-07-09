@@ -43,7 +43,7 @@ Github will take care of the Git details for you—in particular, it'll automati
 
 Making a completely new page is pretty simple, too. Like editing a page, just visit our [repository]({{ site.repository }}) and click *New Page*. To make it easier, we have some templates you can copy:
 
-- [Class info page template]({{ site.repository }}/blob/gh-pages/class_template.md) ([[class_template | rendered]])
+- [Class info page template]({{ site.repository }}/blob/master/class_template.md) ([[class_template | rendered]])
 - More to come!
 
 You'll want to edit the page title at the top of the document, which looks something like this:
