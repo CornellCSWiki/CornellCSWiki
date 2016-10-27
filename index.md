@@ -1,4 +1,4 @@
----
+﻿---
 title: Home
 layout: default
 ---
@@ -160,12 +160,12 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 ### InfoSci
 
 ### Math
- - [[Required to affliate]] - MATH 1110/1120/1220/1910/1920
- - [[Classes sometimes required for CS classes]] - MATH 2130/2210/2220/2230/2240/2310/2930/2940
+ - [Required to affliate]({{ site.baseurl }}/classes/MATHRequired.html) - MATH 1110/1120/1220/1910/1920
+ - [Classes sometimes required for CS classes]({{ site.baseurl }}/classes/MATHSometimes.html) - MATH 2210/2220/2230/2240/2310/2930/2940
  - [[MATH 3360]]—Applicable Algebra
  - [[MATH 4240]]—Wavelets and Fourier Series
- - [[MATH 4250]]({{ site.baseurl }}/classes/CS4210.html)—Numerical Analysis and Differential Equations (crosslisted as CS4210)
- - [[MATH 4260]]({{ site.baseurl }}/classes/CS4220.html)—Numerical Analysis: Linear and Nonlinear Equations (crosslisted as CS4210)
+ - [MATH 4250]({{ site.baseurl }}/classes/CS4210.html)—Numerical Analysis and Differential Equations (crosslisted as CS4210)
+ - [MATH 4260]({{ site.baseurl }}/classes/CS4220.html)—Numerical Analysis: Linear and Nonlinear Equations (crosslisted as CS4210)
  - [[MATH 4410]]—Introduction to Combinatorics I
  - [[MATH 4420]]—Introduction to Combinatorics II
  - [[MATH 4710]]—Basic Probability
