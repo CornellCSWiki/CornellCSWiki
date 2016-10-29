@@ -1,4 +1,4 @@
----
+ï»¿---
 title: Sometimes Required Math Classes
 layout: article
 ---
@@ -9,18 +9,18 @@ Linear algebra or multivariable calculus classes are sometimes required for CS c
 
 ## Linear Algebra
 
- - MATH 2210—Linear Algebra
- - MATH 2310—Linear Algebra with Applications
- - MATH 2940—Linear Algebra for Engineers
+ - MATH 2210â€”Linear Algebra
+ - MATH 2310â€”Linear Algebra with Applications
+ - MATH 2940â€”Linear Algebra for Engineers
 
 ## Multivariable Calculus
 
- - MATH 2220—Multivariable Calculus
+ - MATH 2220â€”Multivariable Calculus
 
 ## Both simultaneously
 
- - MATH 2230—Theoretical Linear Algebra and Calculus
- - MATH 2240—Theoretical Linear Algebra and Calculus
+ - MATH 2230â€”Theoretical Linear Algebra and Calculus
+ - MATH 2240â€”Theoretical Linear Algebra and Calculus
 
 ## Prerequisites
 
