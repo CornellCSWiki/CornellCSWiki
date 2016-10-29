@@ -1,4 +1,4 @@
----
+ï»¿---
 title: Required Math Classes
 layout: article
 ---
@@ -9,23 +9,23 @@ MATH 1120, MATH 1220, or MATH 1920 is required to affliate with the CS major. Fo
 
 ## Calculus I
 
- - MATH 1110—Calculus I
+ - MATH 1110â€”Calculus I
 
 
 ## Calculus II
 
- - MATH 1120—Calculus II
+ - MATH 1120â€”Calculus II
 
- - MATH 1220—Honors Calculus II
+ - MATH 1220â€”Honors Calculus II
  
- - MATH 1910—Calculus For Engineers
+ - MATH 1910â€”Calculus For Engineers
 
 
 Calculus II classes. MATH 1910 is not enough to afflilate - MATH 1920 is required. The engineers version is usually seen as the most computational, and the honors version is the most theoratical. It doesn't really matter which one you take.
 
 ## Multivariable Calculus
 
- - MATH 1920—Multivariable Calculus for Engineers
+ - MATH 1920â€”Multivariable Calculus for Engineers
 
 ## Prerequisites
 
