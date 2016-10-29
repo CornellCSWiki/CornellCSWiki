@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sometimes Required Math Classes
 layout: article
 ---

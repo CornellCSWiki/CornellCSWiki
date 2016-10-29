@@ -1,4 +1,4 @@
-﻿---
+---
 title: Required Math Classes
 layout: article
 ---
@@ -17,7 +17,7 @@ MATH 1120, MATH 1220, or MATH 1920 is required to affliate with the CS major. Fo
  - MATH 1120—Calculus II
 
  - MATH 1220—Honors Calculus II
- 
+
  - MATH 1910—Calculus For Engineers
 
 
@@ -51,6 +51,6 @@ To be filled in.
 
 ## Offerings
 
-With the exception of MATH 1220 (Honors Calculus II), every class is offered every semester, sometimes with more than one professor. 
+With the exception of MATH 1220 (Honors Calculus II), every class is offered every semester, sometimes with more than one professor.
 
 This list would therefore be unnecessarily long, so refer to the course roster.
