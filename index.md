@@ -159,6 +159,8 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 
 ### InfoSci
 
+### ECE
+
 ### Math
  - [Required to affliate]({{ site.baseurl }}/classes/MATHRequired.html) - MATH 1110/1120/1220/1910/1920
  - [Classes sometimes required for CS classes]({{ site.baseurl }}/classes/MATHSometimes.html) - MATH 2210/2220/2230/2240/2310/2930/2940
@@ -173,6 +175,9 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [[MATH 4810]]—Mathematical Logic
  - [[MATH 4820]]—Topics in Logic and the Foundations of Mathematics
  - [[MATH 4860]]—Applied Logic (crosslisted as CS4860)
+ 
+### Other
+ - [[BTRY 3080]]—Probability Models and Inference
 
 This is not an exhaustive list. Many areas of mathematics are used in CS somehow, some specific examples being number theory (cryptography), manifolds (optimisation), geometry (linear programming), and linear algebra (numerical methods).
 
