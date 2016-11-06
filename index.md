@@ -25,7 +25,8 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [Cornell CS Polls](https://www.facebook.com/groups/cucspolls/)—For fun or for survey
  - [ACSU Website](http://www.acsu.cornell.edu)
  - [[OpenSourceCornell]]—some of whose members now maintain this wiki (and [[Contributing Guide | you can, too]]!)
- - [WICC](https://goo.gl/P0jvhO)—Women in Computing at Cornell
+ - [ISSA](http://issa.infosci.cornell.edu) - Information Science Student Association
+ - [WICC](http://wicc.acm.org)—Women in Computing at Cornell
  - [ACSU Facebook Page](https://www.facebook.com/CornellACSU)
  - [Awesome Cornell](https://github.com/OpenSourceCornell/awesome-cornell)—awesome (open source!) projects by your fellow Cornellians
  - [Your CS Career 2014](https://github.com/bcuccioli/superstar-talk/raw/master/pres.pdf)
@@ -158,6 +159,14 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 ## CS-Related Classes
 
 ### InfoSci
+ - [INFO 1200](https://classes.cornell.edu/browse/roster/SP17/class/INFO/1200) - Information Ethics, Law, and Policy
+ - [INFO 2450](https://classes.cornell.edu/browse/roster/FA16/class/INFO/2450) - Communication and Technology
+ - [INFO 2950](https://classes.cornell.edu/browse/roster/SP17/class/INFO/2950) - Introduction to Data Science
+ - [INFO 3200](https://classes.cornell.edu/browse/roster/SP17/class/INFO/3200) - New Media and Society
+ - [INFO 3300]({{ site.baseurl }}/classes/CS3300.html) - Data Driven Web Applications (crosslisted as CS 3300)
+ - [INFO 4240](https://classes.cornell.edu/browse/roster/FA16/class/INFO/4240) - Designing Technology for Social Impact
+ - [INFO 4320](https://classes.cornell.edu/browse/roster/FA16/class/INFO/4320) - Introduction to Rapid Prototyping and Physical Computing
+ - [INFO 4430](https://classes.cornell.edu/browse/roster/FA16/class/INFO/4430) - Teams and Technology
 
 ### ECE
 
