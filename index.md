@@ -26,7 +26,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [ACSU Website](http://www.acsu.cornell.edu)
  - [[OpenSourceCornell]] - Some of whose members now maintain this wiki (and [[Contributing Guide | you can, too]]!)
  - [ISSA](http://issa.infosci.cornell.edu) - Information Science Student Association
- - [URMC](https://www.facebook.com/groups/cornellurmc/) - Under-Represented Minority in Computing
+ - [URMC](https://www.facebook.com/groups/cornellurmc/) - Under-Represented Minorities in Computing
  - [WICC](http://wicc.acm.org) - Women in Computing at Cornell
  - [ACSU Facebook Page](https://www.facebook.com/CornellACSU)
  - [Awesome Cornell](https://github.com/OpenSourceCornell/awesome-cornell) - Awesome (open source!) projects by your fellow Cornellians
