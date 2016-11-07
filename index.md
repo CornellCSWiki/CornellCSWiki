@@ -21,15 +21,15 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [ACSU Readme](https://goo.gl/P0jvhO)—An intro to the major for prefrosh/underclassmen, by ACSU
 
 ## CS Community Pages
- - [Cornell CS Facebook Group](https://www.facebook.com/groups/CornellCS/) - Q&A, interesting links, and discussion
- - [Cornell CS Polls](https://www.facebook.com/groups/cucspolls/) - For fun or for survey
+ - [Cornell CS Facebook Group](https://www.facebook.com/groups/CornellCS/)—Q&A, interesting links, and discussion
+ - [Cornell CS Polls](https://www.facebook.com/groups/cucspolls/)—For fun or for surveys
  - [ACSU Website](http://www.acsu.cornell.edu)
- - [[OpenSourceCornell]] - Some of whose members now maintain this wiki (and [[Contributing Guide | you can, too]]!)
- - [ISSA](http://issa.infosci.cornell.edu) - Information Science Student Association
- - [URMC](https://www.facebook.com/groups/cornellurmc/) - Under-Represented Minorities in Computing
- - [WICC](http://wicc.acm.org) - Women in Computing at Cornell
+ - [[OpenSourceCornell]]—Some of whose members now maintain this wiki (and [[Contributing Guide | you can, too]]!)
+ - [ISSA](http://issa.infosci.cornell.edu)—Information Science Student Association
+ - [URMC](https://www.facebook.com/groups/cornellurmc/)—Under-Represented Minorities in Computing
+ - [WICC](http://wicc.acm.org)—Women in Computing at Cornell
  - [ACSU Facebook Page](https://www.facebook.com/CornellACSU)
- - [Awesome Cornell](https://github.com/OpenSourceCornell/awesome-cornell) - Awesome (open source!) projects by your fellow Cornellians
+ - [Awesome Cornell](https://github.com/OpenSourceCornell/awesome-cornell)—Awesome (open source!) projects by your fellow Cornellians
  - [Your CS Career 2014](https://github.com/bcuccioli/superstar-talk/raw/master/pres.pdf)
 
 ## The CS Major/Minor
