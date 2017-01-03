@@ -13,6 +13,10 @@ Contributors, listed by month of first contribution:
 
 - Shea Hunter Belsky
 
+## October 2016
+
+- Trevor Edwards
+
 ## January 2017
 
 - Justin Kuang
