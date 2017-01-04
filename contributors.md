@@ -16,6 +16,7 @@ Contributors, listed by month of first contribution:
 ## October 2016
 
 - Trevor Edwards
+- Louise Lee
 
 ## January 2017
 
