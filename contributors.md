@@ -21,3 +21,4 @@ Contributors, listed by month of first contribution:
 ## January 2017
 
 - Justin Kuang
+- Eric Feng
