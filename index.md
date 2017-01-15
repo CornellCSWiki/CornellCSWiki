@@ -24,7 +24,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [Cornell CS Facebook Group](https://www.facebook.com/groups/CornellCS/)—Q&A, interesting links, and discussion
  - [Cornell CS Polls](https://www.facebook.com/groups/cucspolls/)—For fun or for surveys
  - [ACSU Website](http://www.acsu.cornell.edu)
- - [[OpenSourceCornell]]—Some of whose members now maintain this wiki (and [[Contributing Guide | you can, too]]!)
+ - [OpenSourceCornell](https://www.facebook.com/opensourcecornell)—Some of whose members now maintain this wiki (and [[Contributing Guide | you can, too]]!)
  - [ISSA](http://issa.infosci.cornell.edu)—Information Science Student Association
  - [URMC](https://www.facebook.com/groups/cornellurmc/)—Under-Represented Minorities in Computing
  - [WICC](http://wicc.acm.org)—Women in Computing at Cornell
@@ -185,7 +185,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [[MATH 4810]]—Mathematical Logic
  - [[MATH 4820]]—Topics in Logic and the Foundations of Mathematics
  - [[MATH 4860]]—Applied Logic (crosslisted as CS4860)
- 
+
 ### Other
  - [[BTRY 3080]]—Probability Models and Inference
 
