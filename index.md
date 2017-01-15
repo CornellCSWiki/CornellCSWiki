@@ -203,6 +203,8 @@ This is not an exhaustive list. Many areas of mathematics are used in CS somehow
 
 ## Career Advice
 
+[[ Opportunities | What sorts of opportunities are available, and how do I find them? ]]
+
 [[ Résumés | How do I write a résumé? ]]
 
 [[ Career Fairs | How can I prepare for career fairs? ]]
