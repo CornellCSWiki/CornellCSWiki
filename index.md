@@ -141,7 +141,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [[CS 6117]]—Category Theory for Computer Scientists
  - [[CS 6210]]—Matrix Computations
  - [[CS 6320]]—Advanced Database Systems
- - [[CS 6360]]—Educational Technology
+ - [[CS 6360]]
  - [[CS 6410]]—Advanced Systems
  - [[CS 6452]]—Datacenter and Network Services
  - [[CS 6630]]—Realistic Image Synthesis
