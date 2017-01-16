@@ -34,10 +34,8 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 
 ## The CS Major/Minor
 
-- [[I just got admitted/transferred | Starting Out]]
+- [[ New Students Guide | Starting Out]]
 - [[Graduation Requirements]]
-- [[External Specializations]]
-- [[Liberal Studies]]
 - [[Choosing a Vector]]
 - [[Choosing a Practicum]]
 

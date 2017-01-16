@@ -5,7 +5,21 @@ title: Graduation Requirements
 
 Your exact requirements depend on whether you're enrolled in Arts & Sciences or Engineering. The CS core is the same, though—it's the electives that change.
 
-The department has a list of [common requirements](http://www.cs.cornell.edu/undergrad/csmajor).
+The department has a list of [common requirements](http://www.cs.cornell.edu/undergrad/csmajor). Of particular note is the external specialization.
+
+## External Specialization
+
+> three 3000+ related courses that are outside of Computer Science and total at least nine credits (3 credit min per course) external specialization
+
+(from: http://www.cs.cornell.edu/undergrad/csmajor)
+
+Common areas: linguistics, math, operations research, … Take whatever you're interested in!
+
+## Liberal Studies
+
+The general advice is to pick classes that you are interested in and would enjoy.
+
+Engineers, note that Advanced Placement credit may have covered as many as 4 of 6 liberal arts requirements.
 
 ## Checking Your Status
 
