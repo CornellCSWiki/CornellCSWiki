@@ -123,15 +123,19 @@ pre {
 @media (max-device-width: 640px) {
     #site-header {
         font-size: 1.5em;
-        margin: 0.5em auto;
+        margin: 0 auto 0.5em auto;
+    }
+
+    .github-fork-ribbon {
+        display: none;
     }
 
     h1 {
-        font-size: 1.75em;
+        font-size: 1.5em;
     }
 
     .container {
-        padding: 0.5em;
+        padding: 0 0.4em;
     }
 
     table.past-offerings thead {
