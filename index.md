@@ -109,6 +109,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [CS 4701—Practicum in Artificial Intelligence]({{ site.baseurl }}/classes/CS4701.html)
  - [[CS 4740]]
  - [CS 4758—Robot Learning]({{ site.baseurl }}/classes/CS4758.html)
+ - [CS 4775—Computational Genetics and Genomics]({{ site.baseurl }}/classes/CS4775.html)
  - [CS 4780—Machine Learning]({{ site.baseurl }}/classes/CS4780.html)
  - [CS 4810—Introduction to Theory of Computing]({{ site.baseurl }}/classes/CS4810.html)
  - [CS 4812—Quantum Information Processing]({{ site.baseurl }}/classes/CS4812.html)
