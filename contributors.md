@@ -24,3 +24,4 @@ Contributors, listed by month of first contribution:
 - Eric Feng
 - Robert Yang
 - Mike Sosa
+- Danny Yang
