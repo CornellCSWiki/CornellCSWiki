@@ -23,3 +23,4 @@ Contributors, listed by month of first contribution:
 - Justin Kuang
 - Eric Feng
 - Robert Yang
+- Mike Sosa
