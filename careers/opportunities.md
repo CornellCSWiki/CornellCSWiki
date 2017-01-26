@@ -21,6 +21,8 @@ Note that these are not the be-all-end-all of freshmen opportunities. You can de
 
 Generally, open source is not so structured like the other opportunities listed. The big program is [Google Summer of Code](https://developers.google.com/open-source/gsoc/), where, if chosen, you work with an open source project all summer to implement specific features, while Google pays you. If you're interested, the best course of action is to research the projects, find one you like, reach out to the core developers on their IRC channel or mailing list and discuss what you could offer them.
 
+There is also [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/), which is similar to Google Summer of Code, but explicitly aims to help more women get involved in open source.
+
 ## Internships
 
 In general: don't get discouraged! Especially if you're a freshman or sophomore, recognize that many companies simply aren't looking to take people for internships that they can't hire soon after.
