@@ -25,3 +25,4 @@ Contributors, listed by month of first contribution:
 - Robert Yang
 - Mike Sosa
 - Danny Yang
+- Patrick M. Niedzielski
