@@ -26,3 +26,7 @@ Contributors, listed by month of first contribution:
 - Mike Sosa
 - Danny Yang
 - Patrick M. Niedzielski
+
+## April 2017
+
+- Wilson Chen
