@@ -121,7 +121,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 ### 5000
  - [[CS 5114]]—Network Programming Languages
  - [CS 5150—Software Engineering]({{ site.baseurl }}/classes/CS5150.html)
- - [[CS 5152]]—Open-Source Software Engineering
+ - [[CS 5152]]
  - [[CS 5220]]—Applications of Parallel Computers
  - [[CS 5300]]—The Architecture of Large - Scale Information Systems
  - [CS 5412—Cloud Computing]({{ site.baseurl }}/classes/CS5412.html)
