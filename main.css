@@ -6,7 +6,7 @@ body {
 }
 
 .container {
-    margin: 1em auto 0;
+    margin: 1em;
     max-width: 50em;
     text-align: left;
 }
