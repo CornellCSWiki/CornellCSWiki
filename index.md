@@ -201,11 +201,15 @@ This is not an exhaustive list. Many areas of mathematics are used in CS somehow
 - [[Cornell Design and Tech Initiative]]
 - [[Cornell CS+Social Good]]
 
+## Hackathons
+
+- [Big Red Hacks](https://bigredhacks.com/)
+- [Entrepreneurship at Cornell hackathon series](http://eship.cornell.edu/hackathons/)
 
 ## Getting Involved in CS/Open Source
 
 - [[ Campus CS Guide | How do I get involved on campus? ]]
-- [[ Open Source Guide | How do I get involved in open source? ]]
+- [How do I get involved in open source?](https://opensource.guide/)
 - [[ OpenSourceCornell ]]
 
 ## Career Advice
