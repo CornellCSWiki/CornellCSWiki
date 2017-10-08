@@ -171,6 +171,9 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 
 ### ECE
 
+- [[ECE 2300]]—Digital Logic and Computer Organization
+- [[ECE 2400]]—Computer Systems Programming
+
 ### Math
  - [Required to affliate]({{ site.baseurl }}/classes/MATHRequired.html) - MATH 1110/1120/1220/1910/1920
  - [Classes sometimes required for CS classes]({{ site.baseurl }}/classes/MATHSometimes.html) - MATH 2210/2220/2230/2240/2310/2930/2940
@@ -193,13 +196,17 @@ This is not an exhaustive list. Many areas of mathematics are used in CS somehow
 
 ## Clubs and Project Teams
 
+- [[Cornell Data Science]]
+- [[CUAppDev]]
+- [[Cornell Design and Tech Initiative]]
+- [[Cornell CS+Social Good]]
+
+
 ## Getting Involved in CS/Open Source
 
-[[ Campus CS Guide | How do I get involved on campus? ]]
-
-[[ Open Source Guide | How do I get involved in open source? ]]
-
-[[ OpenSourceCornell ]]
+- [[ Campus CS Guide | How do I get involved on campus? ]]
+- [[ Open Source Guide | How do I get involved in open source? ]]
+- [[ OpenSourceCornell ]]
 
 ## Career Advice
 
