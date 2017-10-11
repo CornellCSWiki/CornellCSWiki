@@ -16,7 +16,7 @@ If you're not feeling like writing, you can still help us out! Suggestions, corr
 
 ## 5 Easy Steps
 
-1. [Sign up for Github](https://github.com).
+1. [Sign up for GitHub](https://github.com).
 2. Find the page you want to edit, and hit the edit ribbon in the top right.
 3. Summarize your changes at the bottom of the edit page.
 4. Make a pull request.
@@ -26,9 +26,9 @@ Interested? Read on.
 
 > If you would like to contribute anonymously, please [email us](mailto::{{ site.moderators_email }}) and we will help you. We suggest using a "throwaway" email, like one from mailinator.com.
 
-## Make a Github Account
+## Make a GitHub Account
 
-Go to [Github](https://github.com) and sign up. You'll need to confirm your email address before you can do anything else.
+Go to [GitHub](https://github.com) and sign up. You'll need to confirm your email address before you can do anything else.
 
 Already have one? Skip down to either [Editing a Page](#editing-a-page) or [Making a New Page](#making-a-new-page).
 
@@ -36,12 +36,12 @@ If you're feeling overwhelmed, [create an issue]({{site.repository_issues}}) and
 
 ## Editing a Page
 
-If you've heard about Git or Github and how difficult it can't be, don't worry. Github makes it easy with a web interface. Just visit our [repository]({{ site.repository }}) and find the page you want to edit. Then just hit the edit button!
+If you've heard about Git or GitHub and how difficult it can't be, don't worry. GitHub makes it easy with a web interface. Just visit our [repository]({{ site.repository }}) and find the page you want to edit. Then just hit the edit button!
 
 <!-- TODO: add screenshot of the button. How do I/can I do this from the web interface? -->
 <!-- TODO: is there some way to avoid hardcoding the repository link? Maybe use a site variable -->
 
-Github will take care of the Git details for you—in particular, it'll automatically fork the project for you. (Curious? Check out [Forking](#forking) below.) You'll then be presented with an editor where you can make changes to your heart's content. This wiki uses Markdown formatting, which you may have heard of before. We have a quick [guide to Markdown below](#about-markdown).
+GitHub will take care of the Git details for you—in particular, it'll automatically fork the project for you. (Curious? Check out [Forking](#forking) below.) You'll then be presented with an editor where you can make changes to your heart's content. This wiki uses Markdown formatting, which you may have heard of before. We have a quick [guide to Markdown below](#about-markdown).
 
 ## Making a New Page
 
@@ -94,9 +94,9 @@ Another addition is *wikilinks*, which let you link to a page with just the titl
 
 ## Getting Your Changes Reviewed
 
-At the bottom of the editor, you'll find a place to describe your changes. Github gives you two boxes: one for a short summary of the contribution, and an optional long description. Together, these make up the Git commit message. Write up a little summary of what you did, like "Added page on contributing", "Added median grade to CS 1110 Spring 2015", or "Fixed typos in CS 2112 page". Once you're done, hit "Propose new file". This will make a *pull request*, which is a fancy way of saying that Github will let us know about your changes, and we can review them before integrating them into the wiki. Github presents a summary of what you're doing—don't worry about this and just choose to "Make a pull request".
+At the bottom of the editor, you'll find a place to describe your changes. GitHub gives you two boxes: one for a short summary of the contribution, and an optional long description. Together, these make up the Git commit message. Write up a little summary of what you did, like "Added page on contributing", "Added median grade to CS 1110 Spring 2015", or "Fixed typos in CS 2112 page". Once you're done, hit "Propose new file". This will make a *pull request*, which is a fancy way of saying that GitHub will let us know about your changes, and we can review them before integrating them into the wiki. GitHub presents a summary of what you're doing—don't worry about this and just choose to "Make a pull request".
 
-Sometimes, we might ask you to make a few changes—maybe there's a few typos, maybe there's a formatting thing, or maybe we'd like the page to be structured like other similar pages. In these cases, we'll help you with Git and Github, and teach you a little bit more about contributing to open source in the process. Most of the time, as soon as we get around to reviewing your changes, we'll just accept them.
+Sometimes, we might ask you to make a few changes—maybe there's a few typos, maybe there's a formatting thing, or maybe we'd like the page to be structured like other similar pages. In these cases, we'll help you with Git and GitHub, and teach you a little bit more about contributing to open source in the process. Most of the time, as soon as we get around to reviewing your changes, we'll just accept them.
 
 Congratulations, you're a contributor! If you've never done this before, then even better—you've just made your first contribution to open source.
 
@@ -112,9 +112,9 @@ These licenses ultimately derive from the *free software movement*, which is abo
 
 ### Forking
 
-What is all this Git nonsense anyways? We'll leave out the discussion of what Git is for now, but forking and pull requests are the model that Github uses for contributing. Note that what *Github* does isn't necessarily the same as what *open source projects in general* do!
+What is all this Git nonsense anyways? We'll leave out the discussion of what Git is for now, but forking and pull requests are the model that GitHub uses for contributing. Note that what *GitHub* does isn't necessarily the same as what *open source projects in general* do!
 
-In Git, all your code lives in a *repository*. A repository can be copied on Github by *forking* it. You can then modify the code however you like. When you're ready to submit your changes back to the original, *upstream* repository, you create a *pull request*. A pull request is a set of changes that you, the owner of the fork, wants to send back to the upstream repository.
+In Git, all your code lives in a *repository*. A repository can be copied on GitHub by *forking* it. You can then modify the code however you like. When you're ready to submit your changes back to the original, *upstream* repository, you create a *pull request*. A pull request is a set of changes that you, the owner of the fork, wants to send back to the upstream repository.
 
 ## Joining the Team
 
