@@ -110,6 +110,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [CS 4758—Robot Learning]({{ site.baseurl }}/classes/CS4758.html)
  - [CS 4775—Computational Genetics and Genomics]({{ site.baseurl }}/classes/CS4775.html)
  - [CS 4780—Machine Learning]({{ site.baseurl }}/classes/CS4780.html)
+ - [CS 4786—Machine Learning for Data Science]({{ site.baseurl }}/classes/CS4786.html)
  - [CS 4810—Introduction to Theory of Computing]({{ site.baseurl }}/classes/CS4810.html)
  - [CS 4812—Quantum Information Processing]({{ site.baseurl }}/classes/CS4812.html)
  - [CS 4820—Introduction to Algorithms]({{ site.baseurl }}/classes/CS4820.html)
@@ -133,6 +134,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [CS 5625—Interactive Computer Graphics]({{ site.baseurl }}/classes/CS5625.html)
  - [[CS 5643]]—Physically Based Animation for Computer Graphics
  - [[CS 5724]]—Evolutionary Computation
+ - [CS 5786—Machine Learning for Data Science]({{ site.baseurl }}/classes/CS4786.html)
  - [[CS 5846]]—Decision Theory I
 
 ### 6000
