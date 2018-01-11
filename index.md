@@ -24,7 +24,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [Cornell CS Facebook Group](https://www.facebook.com/groups/CornellCS/)—Q&A, interesting links, and discussion
  - [Cornell CS Polls](https://www.facebook.com/groups/cucspolls/)—For fun or for surveys
  - [ACSU Website](http://www.acsu.cornell.edu)
- - [[OpenSourceCornell]]—Some of whose members now maintain this wiki (and [[Contributing Guide | you can, too]]!)
+ - [OpenSourceCornell](https://www.facebook.com/opensourcecornell)—Some of whose members now maintain this wiki (and [[Contributing Guide | you can, too]]!)
  - [ISSA](http://issa.infosci.cornell.edu)—Information Science Student Association
  - [URMC](https://www.facebook.com/groups/cornellurmc/)—Under-Represented Minorities in Computing
  - [WICC](http://wicc.acm.org)—Women in Computing at Cornell
@@ -34,10 +34,8 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 
 ## The CS Major/Minor
 
-- [[I just got admitted/transferred | Starting Out]]
+- [[ New Students Guide | Starting Out]]
 - [[Graduation Requirements]]
-- [[External Specializations]]
-- [[Liberal Studies]]
 - [[Choosing a Vector]]
 - [[Choosing a Practicum]]
 
@@ -108,8 +106,11 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [CS 4700—Foundations of Artificial Intelligence]({{ site.baseurl }}/classes/CS4700.html)
  - [CS 4701—Practicum in Artificial Intelligence]({{ site.baseurl }}/classes/CS4701.html)
  - [[CS 4740]]
+ - [[CS 4750]]
  - [CS 4758—Robot Learning]({{ site.baseurl }}/classes/CS4758.html)
+ - [CS 4775—Computational Genetics and Genomics]({{ site.baseurl }}/classes/CS4775.html)
  - [CS 4780—Machine Learning]({{ site.baseurl }}/classes/CS4780.html)
+ - [CS 4786—Machine Learning for Data Science]({{ site.baseurl }}/classes/CS4786.html)
  - [CS 4810—Introduction to Theory of Computing]({{ site.baseurl }}/classes/CS4810.html)
  - [CS 4812—Quantum Information Processing]({{ site.baseurl }}/classes/CS4812.html)
  - [CS 4820—Introduction to Algorithms]({{ site.baseurl }}/classes/CS4820.html)
@@ -121,7 +122,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 ### 5000
  - [[CS 5114]]—Network Programming Languages
  - [CS 5150—Software Engineering]({{ site.baseurl }}/classes/CS5150.html)
- - [[CS 5152]]—Open-Source Software Engineering
+ - [[CS 5152]]
  - [[CS 5220]]—Applications of Parallel Computers
  - [[CS 5300]]—The Architecture of Large - Scale Information Systems
  - [CS 5412—Cloud Computing]({{ site.baseurl }}/classes/CS5412.html)
@@ -133,6 +134,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [CS 5625—Interactive Computer Graphics]({{ site.baseurl }}/classes/CS5625.html)
  - [[CS 5643]]—Physically Based Animation for Computer Graphics
  - [[CS 5724]]—Evolutionary Computation
+ - [CS 5786—Machine Learning for Data Science]({{ site.baseurl }}/classes/CS4786.html)
  - [[CS 5846]]—Decision Theory I
 
 ### 6000
@@ -141,7 +143,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [[CS 6117]]—Category Theory for Computer Scientists
  - [[CS 6210]]—Matrix Computations
  - [[CS 6320]]—Advanced Database Systems
- - [[CS 6360]]—Educational Technology
+ - [[CS 6360]]
  - [[CS 6410]]—Advanced Systems
  - [[CS 6452]]—Datacenter and Network Services
  - [[CS 6630]]—Realistic Image Synthesis
@@ -185,7 +187,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [[MATH 4810]]—Mathematical Logic
  - [[MATH 4820]]—Topics in Logic and the Foundations of Mathematics
  - [[MATH 4860]]—Applied Logic (crosslisted as CS4860)
- 
+
 ### Other
  - [[BTRY 3080]]—Probability Models and Inference
 
@@ -202,6 +204,8 @@ This is not an exhaustive list. Many areas of mathematics are used in CS somehow
 [[ OpenSourceCornell ]]
 
 ## Career Advice
+
+[[ Opportunities | What sorts of opportunities are available, and how do I find them? ]]
 
 [[ Résumés | How do I write a résumé? ]]
 
