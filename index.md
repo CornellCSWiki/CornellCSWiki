@@ -173,6 +173,8 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 
 ### ECE
 
+- [[ ECE 2300 ]]—Sometimes taken with [[ CS 3420 | CS 3420 ]] as an alternative to [[ CS 3410 | CS 3410 ]]
+
 ### Math
  - [Required to affliate]({{ site.baseurl }}/classes/MATHRequired.html) - MATH 1110/1120/1220/1910/1920
  - [Classes sometimes required for CS classes]({{ site.baseurl }}/classes/MATHSometimes.html) - MATH 2210/2220/2230/2240/2310/2930/2940
@@ -201,7 +203,9 @@ This is not an exhaustive list. Many areas of mathematics are used in CS somehow
 
 [[ Open Source Guide | How do I get involved in open source? ]]
 
-[[ OpenSourceCornell ]]
+[[ Research Guide | How do I get involved in research? ]]
+
+[OpenSourceCornell](https://opensourcecornell.org)
 
 ## Career Advice
 
