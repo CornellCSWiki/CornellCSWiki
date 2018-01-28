@@ -34,3 +34,7 @@ Contributors, listed by month of first contribution:
 ## July 2017
 
 - Anmol Kabra
+
+## December 2017
+
+- James Chen
