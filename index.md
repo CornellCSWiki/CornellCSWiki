@@ -171,6 +171,11 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [INFO 4320](https://classes.cornell.edu/browse/roster/FA16/class/INFO/4320)—Introduction to Rapid Prototyping and Physical Computing
  - [INFO 4430](https://classes.cornell.edu/browse/roster/FA16/class/INFO/4430)—Teams and Technology
 
+### ORIE
+- [[ORIE 4740]]-Statistical Data Mining
+- [[ORIE 4741]]-Learning with Big Messy Data
+- [[ORIE 4742]]-Information Theory, Probabilistic Modeling, & Deep Learning with Scientific & Financial Applications
+
 ### ECE
 
 - [[ ECE 2300 ]]—Sometimes taken with [[ CS 3420 | CS 3420 ]] as an alternative to [[ CS 3410 | CS 3410 ]]
