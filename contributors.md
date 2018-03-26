@@ -38,3 +38,7 @@ Contributors, listed by month of first contribution:
 ## December 2017
 
 - James Chen
+
+## January 2018
+
+- Rishi Advani
