@@ -91,6 +91,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [CS 4120—Introduction to Compilers]({{ site.baseurl }}/classes/CS4120.html)
  - [CS 4121—Practicum in Compilers]({{ site.baseurl }}/classes/CS4121.html)
  - [[CS 4152]]—Advanced Topics in Computer Game Architecture
+ - [[CS 4154]]
  - [CS 4210—Numerical Analysis and Differential Equations]({{ site.baseurl }}/classes/CS4210.html)
  - [CS 4220—Numerical Analysis: Linear and Nonlinear Problems]({{ site.baseurl }}/classes/CS4220.html)
  - [[CS 4300]]—Information Retrieval
