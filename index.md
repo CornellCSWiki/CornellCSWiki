@@ -140,7 +140,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 ### 6000
  - [CS 6110—Advanced Programming Languages]({{ site.baseurl }}/classes/CS6110.html)
  - [[CS 6114]]—Network Programming Languages
- - [[CS 6117]]—Category Theory for Computer Scientists
+ - [[CS 6117]]
  - [[CS 6210]]—Matrix Computations
  - [[CS 6320]]—Advanced Database Systems
  - [[CS 6360]]
