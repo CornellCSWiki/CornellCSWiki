@@ -41,4 +41,4 @@ Contributors, listed by month of first contribution:
 
 ## January 2018
 
-- Rishi Advani
+- Rishi Advani (@rishi1999)
