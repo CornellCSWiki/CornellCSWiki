@@ -42,3 +42,7 @@ Contributors, listed by month of first contribution:
 ## January 2018
 
 - Rishi Advani (@rishi1999)
+
+## August 2018
+
+- Sam Zhou
