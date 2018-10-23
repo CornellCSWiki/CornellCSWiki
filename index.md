@@ -189,7 +189,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [[MATH 3360]]—Applicable Algebra
  - [[MATH 4240]]—Wavelets and Fourier Series
  - [MATH 4250]({{ site.baseurl }}/classes/CS4210.html)—Numerical Analysis and Differential Equations (crosslisted as CS4210)
- - [MATH 4260]({{ site.baseurl }}/classes/CS4220.html)—Numerical Analysis: Linear and Nonlinear Equations (crosslisted as CS4210)
+ - [MATH 4260]({{ site.baseurl }}/classes/CS4220.html)—Numerical Analysis: Linear and Nonlinear Equations (crosslisted as CS4220)
  - [[MATH 4410]]—Introduction to Combinatorics I
  - [[MATH 4420]]—Introduction to Combinatorics II
  - [[MATH 4710]]—Basic Probability
