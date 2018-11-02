@@ -75,6 +75,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [CS 2112—Object-Oriented Programming and Data Structures - Honors]({{ site.baseurl }}/classes/CS2112.html)
  - [CS 2300—Intermediate Design and Programming for the Web]({{ site.baseurl }}/classes/CS2300.html)
  - [CS 2800—Discrete Structures]({{ site.baseurl }}/classes/CS2800.html)
+ - [[CS 2802]]—Discrete Structures - Honors
  - [CS 2850—Networks]({{ site.baseurl }}/classes/CS2850.html)
 
 ### 3000
@@ -92,6 +93,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [CS 4121—Practicum in Compilers]({{ site.baseurl }}/classes/CS4121.html)
  - [[CS 4152]]—Advanced Topics in Computer Game Architecture
  - [[CS 4154]]
+ - [[CS 4160]]-Formal Verification
  - [CS 4210—Numerical Analysis and Differential Equations]({{ site.baseurl }}/classes/CS4210.html)
  - [CS 4220—Numerical Analysis: Linear and Nonlinear Problems]({{ site.baseurl }}/classes/CS4220.html)
  - [[CS 4300]]—Information Retrieval
@@ -187,7 +189,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [[MATH 3360]]—Applicable Algebra
  - [[MATH 4240]]—Wavelets and Fourier Series
  - [MATH 4250]({{ site.baseurl }}/classes/CS4210.html)—Numerical Analysis and Differential Equations (crosslisted as CS4210)
- - [MATH 4260]({{ site.baseurl }}/classes/CS4220.html)—Numerical Analysis: Linear and Nonlinear Equations (crosslisted as CS4210)
+ - [MATH 4260]({{ site.baseurl }}/classes/CS4220.html)—Numerical Analysis: Linear and Nonlinear Equations (crosslisted as CS4220)
  - [[MATH 4410]]—Introduction to Combinatorics I
  - [[MATH 4420]]—Introduction to Combinatorics II
  - [[MATH 4710]]—Basic Probability
