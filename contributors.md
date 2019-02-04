@@ -46,3 +46,7 @@ Contributors, listed by month of first contribution:
 ## August 2018
 
 - Sam Zhou
+
+## January 2019
+
+- Xiuyu Li
