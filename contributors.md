@@ -34,3 +34,19 @@ Contributors, listed by month of first contribution:
 ## July 2017
 
 - Anmol Kabra
+
+## December 2017
+
+- James Chen
+
+## January 2018
+
+- Rishi Advani (@rishi1999)
+
+## August 2018
+
+- Sam Zhou
+
+## January 2019
+
+- Xiuyu Li

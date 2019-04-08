@@ -100,6 +100,8 @@ Sometimes, we might ask you to make a few changes—maybe there's a few typos, m
 
 Congratulations, you're a contributor! If you've never done this before, then even better—you've just made your first contribution to open source.
 
+If you want to add yourself to the contributors list, feel free to edit the file `contributors.md` and add your name in the following format: `First Last (username)`.
+
 ## What Next
 
 There's always more work to be done! Take a look at our [issues]({{ site.repository_issues }}), and comment on anything you'd like to work on. We'll help you through the rest. If you're interested in the open-source aspect, read on.

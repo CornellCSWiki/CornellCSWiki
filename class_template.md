@@ -37,7 +37,7 @@ CS 7777 was the most engaging class I ever took. Professor Myers-Bracy-Sirer rea
 ## Past Offerings
 
 {:.past-offerings}
-| Semester | Time | Professor | Median Grade | Course Page |
+| Semester | Time | Professor | Median Grade | Enrollment | Course Page |
 | --- | --- | --- | --- | --- |
-| Spring 2013 | TR 9:05 - 9:55 AM and TR 11:15 AM - 12:05 PM | Myers-Bracy-Sirer | A- | <http://example.com> |
-|Fall 2012 | TR 9:05 - 9:55 AM and TR 11:15 AM - 12:05 PM | Bracy-Sirer-Myers | B | <http://example.com> |
+| Spring 2013 | TR 9:05 - 9:55 AM and TR 11:15 AM - 12:05 PM | Myers-Bracy-Sirer | A- | 0 | <http://example.com> |
+|Fall 2012 | TR 9:05 - 9:55 AM and TR 11:15 AM - 12:05 PM | Bracy-Sirer-Myers | B | 0 | <http://example.com> |

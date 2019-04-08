@@ -75,6 +75,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [CS 2112—Object-Oriented Programming and Data Structures - Honors]({{ site.baseurl }}/classes/CS2112.html)
  - [CS 2300—Intermediate Design and Programming for the Web]({{ site.baseurl }}/classes/CS2300.html)
  - [CS 2800—Discrete Structures]({{ site.baseurl }}/classes/CS2800.html)
+ - [[CS 2802]]—Discrete Structures - Honors
  - [CS 2850—Networks]({{ site.baseurl }}/classes/CS2850.html)
 
 ### 3000
@@ -91,6 +92,8 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [CS 4120—Introduction to Compilers]({{ site.baseurl }}/classes/CS4120.html)
  - [CS 4121—Practicum in Compilers]({{ site.baseurl }}/classes/CS4121.html)
  - [[CS 4152]]—Advanced Topics in Computer Game Architecture
+ - [[CS 4154]]
+ - [[CS 4160]]-Formal Verification
  - [CS 4210—Numerical Analysis and Differential Equations]({{ site.baseurl }}/classes/CS4210.html)
  - [CS 4220—Numerical Analysis: Linear and Nonlinear Problems]({{ site.baseurl }}/classes/CS4220.html)
  - [[CS 4300]]—Information Retrieval
@@ -110,6 +113,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [CS 4758—Robot Learning]({{ site.baseurl }}/classes/CS4758.html)
  - [CS 4775—Computational Genetics and Genomics]({{ site.baseurl }}/classes/CS4775.html)
  - [CS 4780—Machine Learning]({{ site.baseurl }}/classes/CS4780.html)
+ - [CS 4786—Machine Learning for Data Science]({{ site.baseurl }}/classes/CS4786.html)
  - [CS 4810—Introduction to Theory of Computing]({{ site.baseurl }}/classes/CS4810.html)
  - [CS 4812—Quantum Information Processing]({{ site.baseurl }}/classes/CS4812.html)
  - [CS 4820—Introduction to Algorithms]({{ site.baseurl }}/classes/CS4820.html)
@@ -122,7 +126,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [[CS 5114]]—Network Programming Languages
  - [CS 5150—Software Engineering]({{ site.baseurl }}/classes/CS5150.html)
  - [[CS 5152]]
- - [[CS 5220]]—Applications of Parallel Computers
+ - [CS 5220—Applications of Parallel Computers]({{site.baseurl}}/classes/CS5220.html)
  - [[CS 5300]]—The Architecture of Large - Scale Information Systems
  - [CS 5412—Cloud Computing]({{ site.baseurl }}/classes/CS5412.html)
  - [[CS 5414]]—Distributed Computing Principles
@@ -133,12 +137,13 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [CS 5625—Interactive Computer Graphics]({{ site.baseurl }}/classes/CS5625.html)
  - [[CS 5643]]—Physically Based Animation for Computer Graphics
  - [[CS 5724]]—Evolutionary Computation
+ - [CS 5786—Machine Learning for Data Science]({{ site.baseurl }}/classes/CS4786.html)
  - [[CS 5846]]—Decision Theory I
 
 ### 6000
  - [CS 6110—Advanced Programming Languages]({{ site.baseurl }}/classes/CS6110.html)
  - [[CS 6114]]—Network Programming Languages
- - [[CS 6117]]—Category Theory for Computer Scientists
+ - [[CS 6117]]
  - [[CS 6210]]—Matrix Computations
  - [[CS 6320]]—Advanced Database Systems
  - [[CS 6360]]
@@ -169,10 +174,14 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [INFO 4320](https://classes.cornell.edu/browse/roster/FA16/class/INFO/4320)—Introduction to Rapid Prototyping and Physical Computing
  - [INFO 4430](https://classes.cornell.edu/browse/roster/FA16/class/INFO/4430)—Teams and Technology
 
-### ECE
+### ORIE
+- [[ORIE 4740]]-Statistical Data Mining
+- [[ORIE 4741]]-Learning with Big Messy Data
+- [[ORIE 4742]]-Information Theory, Probabilistic Modeling, & Deep Learning with Scientific & Financial Applications
 
-- [[ECE 2300]]—Digital Logic and Computer Organization
-- [[ECE 2400]]—Computer Systems Programming
+### ECE
+- [[ECE 2300]]-Digital Logic and Computer Organization (sometimes taken with [[ CS 3420 | CS 3420 ]] as an alternative to [[ CS 3410 | CS 3410 ]])
+- [[ECE 2400]]-Computer Systems Programming
 
 ### Math
  - [Required to affliate]({{ site.baseurl }}/classes/MATHRequired.html) - MATH 1110/1120/1220/1910/1920
@@ -180,7 +189,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [[MATH 3360]]—Applicable Algebra
  - [[MATH 4240]]—Wavelets and Fourier Series
  - [MATH 4250]({{ site.baseurl }}/classes/CS4210.html)—Numerical Analysis and Differential Equations (crosslisted as CS4210)
- - [MATH 4260]({{ site.baseurl }}/classes/CS4220.html)—Numerical Analysis: Linear and Nonlinear Equations (crosslisted as CS4210)
+ - [MATH 4260]({{ site.baseurl }}/classes/CS4220.html)—Numerical Analysis: Linear and Nonlinear Equations (crosslisted as CS4220)
  - [[MATH 4410]]—Introduction to Combinatorics I
  - [[MATH 4420]]—Introduction to Combinatorics II
  - [[MATH 4710]]—Basic Probability
@@ -195,29 +204,22 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 This is not an exhaustive list. Many areas of mathematics are used in CS somehow, some specific examples being number theory (cryptography), manifolds (optimisation), geometry (linear programming), and linear algebra (numerical methods).
 
 ## Clubs and Project Teams
-
 - [[Cornell Data Science]]
 - [[CUAppDev]]
 - [[Cornell Design and Tech Initiative]]
 - [[Cornell CS+Social Good]]
 
 ## Hackathons
-
 - [Big Red Hacks](https://bigredhacks.com/)
 - [Entrepreneurship at Cornell hackathon series](http://eship.cornell.edu/hackathons/)
 
 ## Getting Involved in CS/Open Source
-
 - [[ Campus CS Guide | How do I get involved on campus? ]]
 - [How do I get involved in open source?](https://opensource.guide/)
 - [[ OpenSourceCornell ]]
 
 ## Career Advice
-
-[[ Opportunities | What sorts of opportunities are available, and how do I find them? ]]
-
-[[ Résumés | How do I write a résumé? ]]
-
-[[ Career Fairs | How can I prepare for career fairs? ]]
-
-[[ Interviewing | How can I prepare for interviews? ]]
+- [[ Opportunities | What sorts of opportunities are available, and how do I find them? ]]
+- [[ Résumés | How do I write a résumé? ]]
+- [[ Career Fairs | How can I prepare for career fairs? ]]
+- [[ Interviewing | How can I prepare for interviews? ]]

@@ -34,6 +34,6 @@ Yes, of course. While Git makes this a bit harder than with MediaWiki, please [e
 
 ## There's content that's offensive/rude/reflects poorly
 
-Please [email us](mailto:{{ site.moderators_email }}) or [file an issue](https://github.com/CornellCSWiki/testwiki/issues).
+Please [email us](mailto:{{ site.moderators_email }}) or [file an issue](https://github.com/CornellCSWiki/CornellCSWiki/issues).
 
 Currently most content was migrated (with minimal/automated editing) from the old CS wiki. We hope over time to update, revamp, and re-scrutinize all this content.
