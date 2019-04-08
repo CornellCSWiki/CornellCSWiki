@@ -8,4 +8,4 @@ Content here is licensed under the Creative Commons Attribution-ShareAlike 4.0 I
 
 This uses one Jekyll plugin to
 [add wikilinks](https://github.com/CornellCSWiki/jekyll-wikilinks-plugin). As
-a result, it will not build on Github Pages.
+a result, it will not build on GitHub Pages.

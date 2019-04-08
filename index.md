@@ -7,7 +7,7 @@ layout: default
 
 Want to add your thoughts? See a class that needs info? [[ Contributing Guide | Contribute to this wiki!]] This is not limited to only coursework. Contribute any resources or additional pages you think anyone may find useful! If a page does not exist for a class you have taken, please do us all a favor and make one!
 
-> This site is hosted on Git**lab**, but the source is on Git**hub**. Gitlab offers much better hosting (in particular, allowing custom plugins), but Github is better known in open source. Don't mix up the URLs!
+> This site is hosted on Git**Lab**, but the source is on Git**Hub**. GitLab offers much better hosting (in particular, allowing custom plugins), but GitHub is better known in open source. Don't mix up the URLs!
 
 * TOC
 {:toc}
@@ -180,8 +180,8 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 - [[ORIE 4742]]-Information Theory, Probabilistic Modeling, & Deep Learning with Scientific & Financial Applications
 
 ### ECE
-
-- [[ ECE 2300 ]]—Sometimes taken with [[ CS 3420 | CS 3420 ]] as an alternative to [[ CS 3410 | CS 3410 ]]
+- [[ECE 2300]]-Digital Logic and Computer Organization (sometimes taken with [[ CS 3420 | CS 3420 ]] as an alternative to [[ CS 3410 | CS 3410 ]])
+- [[ECE 2400]]-Computer Systems Programming
 
 ### Math
  - [Required to affliate]({{ site.baseurl }}/classes/MATHRequired.html) - MATH 1110/1120/1220/1910/1920
@@ -204,23 +204,22 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 This is not an exhaustive list. Many areas of mathematics are used in CS somehow, some specific examples being number theory (cryptography), manifolds (optimisation), geometry (linear programming), and linear algebra (numerical methods).
 
 ## Clubs and Project Teams
+- [[Cornell Data Science]]
+- [[CUAppDev]]
+- [[Cornell Design and Tech Initiative]]
+- [[Cornell CS+Social Good]]
+
+## Hackathons
+- [Big Red Hacks](https://bigredhacks.com/)
+- [Entrepreneurship at Cornell hackathon series](http://eship.cornell.edu/hackathons/)
 
 ## Getting Involved in CS/Open Source
-
-[[ Campus CS Guide | How do I get involved on campus? ]]
-
-[[ Open Source Guide | How do I get involved in open source? ]]
-
-[[ Research Guide | How do I get involved in research? ]]
-
-[OpenSourceCornell](https://opensourcecornell.org)
+- [[ Campus CS Guide | How do I get involved on campus? ]]
+- [How do I get involved in open source?](https://opensource.guide/)
+- [[ OpenSourceCornell ]]
 
 ## Career Advice
-
-[[ Opportunities | What sorts of opportunities are available, and how do I find them? ]]
-
-[[ Résumés | How do I write a résumé? ]]
-
-[[ Career Fairs | How can I prepare for career fairs? ]]
-
-[[ Interviewing | How can I prepare for interviews? ]]
+- [[ Opportunities | What sorts of opportunities are available, and how do I find them? ]]
+- [[ Résumés | How do I write a résumé? ]]
+- [[ Career Fairs | How can I prepare for career fairs? ]]
+- [[ Interviewing | How can I prepare for interviews? ]]
