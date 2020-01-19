@@ -54,3 +54,4 @@ Contributors, listed by month of first contribution:
 ## January 2020
 
 - David Kim
+- Peter Wu
