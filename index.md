@@ -214,12 +214,6 @@ This is not an exhaustive list. Many areas of mathematics are used in CS somehow
 - [Entrepreneurship at Cornell hackathon series](http://eship.cornell.edu/hackathons/)
 
 ## Getting Involved in CS/Open Source
+- [[ Opportunities | What sorts of opportunities are available, and how do I find them? ]]
 - [[ Campus CS Guide | How do I get involved on campus? ]]
 - [How do I get involved in open source?](https://opensource.guide/)
-- [[ OpenSourceCornell ]]
-
-## Career Advice
-- [[ Opportunities | What sorts of opportunities are available, and how do I find them? ]]
-- [[ Résumés | How do I write a résumé? ]]
-- [[ Career Fairs | How can I prepare for career fairs? ]]
-- [[ Interviewing | How can I prepare for interviews? ]]
