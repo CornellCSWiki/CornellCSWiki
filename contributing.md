@@ -16,7 +16,7 @@ If you're not feeling like writing, you can still help us out! Suggestions, corr
 
 ## 5 Easy Steps
 
-1. [Sign up for GitHub](https://github.com).
+1. [Sign up for GitHub.](https://github.com)
 2. Find the page you want to edit, and hit the edit ribbon in the top right.
 3. Summarize your changes at the bottom of the edit page.
 4. Make a pull request.
