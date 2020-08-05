@@ -39,7 +39,6 @@ If you're feeling overwhelmed, [create an issue]({{site.repository_issues}}) and
 If you've heard about Git or GitHub and how difficult it can't be, don't worry. GitHub makes it easy with a web interface. Just visit our [repository]({{ site.repository }}) and find the page you want to edit. Then just hit the edit button!
 
 <!-- TODO: add screenshot of the button. How do I/can I do this from the web interface? -->
-<!-- TODO: is there some way to avoid hardcoding the repository link? Maybe use a site variable -->
 
 GitHub will take care of the Git details for you—in particular, it'll automatically fork the project for you. (Curious? Check out [Forking](#forking) below.) You'll then be presented with an editor where you can make changes to your heart's content. This wiki uses Markdown formatting, which you may have heard of before. We have a quick [guide to Markdown below](#about-markdown).
 
@@ -68,16 +67,7 @@ The site uses Jekyll so if you clone the repository and try to preview you'll ju
 
 ## About Markdown
 
-[Markdown](https://daringfireball.net/projects/markdown/) is a simple way to add formatting to plain text documents. You write a document using whatever editor you want, sprinkling in \**asterisks*\* to italicize your text and __ __underscores__ __ to bold it. Some more formatting:
-
-* Lead off with an asterisk or dash to make a list.
-    * Indent a few spaces to get a nested one!
-* Insert a snippet of code with `` `backticks` ``.
-
-1. You can make numbered lists, too!
-1. Markdown automatically numbers the lists for you.
-
-And add a heading with some `## Hashtags`.
+Markdown is a simple tool for adding formatting to plain text documents. A quick guide to the syntax can be found [here](https://guides.github.com/features/mastering-markdown/). 
 
 There's also some Markdown formatting specific to the software we're using for this wiki, [Jekyll](https://jekyllrb.com/). In particular, you might notice a section like this at the top of every page:
 
