@@ -60,7 +60,7 @@ title: Contributing Guide
 
 ## Running the page locally
 The site uses Jekyll so if you clone the repository and try to preview you'll just get an preview of the markdown. Here's how to fix this.
-1. Install Jekyll ([General](https://jekyllrb.com/docs/installation/), [Windows](https://jekyllrb.com/docs/windows/) )
+1. [Install Jekyll.](https://jekyllrb.com/docs/installation/#guides)
 2. CD (the command) into the directory where you cloned the github repo.
 3. If jekyll is installed correctly when you run 'jekyll serve' you should see a serving running message.
 4. Navigate to the server address in your browser (normally "127.0.0.1:4000"). You should see the page rendered.
