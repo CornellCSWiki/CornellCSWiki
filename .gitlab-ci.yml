@@ -2,7 +2,7 @@ image: ruby:2.3
 
 pages:
   script:
-  - gem install jekyll
+  - gem install jekyll --version 3.8
   - jekyll build -d public
   artifacts:
     paths:
