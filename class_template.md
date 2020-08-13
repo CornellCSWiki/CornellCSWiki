@@ -1,6 +1,6 @@
 ---
 title: CS 7777—Template for Class Page
-wikilinks: ["CS 7777", "CS7777", "class_template"]
+wikilinks: ["CS 7777", "class_template"]
 layout: article
 ---
 
