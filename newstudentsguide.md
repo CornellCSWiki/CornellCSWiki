@@ -3,8 +3,6 @@ layout: article
 title: New Students Guide
 ---
 
-This is for incoming freshmen. Transfers, see the [[ Transfer Students Guide ]].
-
 The key thing is: __don't panic__. Yes, there are people coming in with internships already, or five years of Java, or several capture-the-flags under their belt. There are also many more people who have absolutely no experience, who think Python is a snake and Java is a kind of coffee, and ultimately, all of you can and will succeed.
 
 ## First Classes

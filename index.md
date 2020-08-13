@@ -13,38 +13,23 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 ## Handy Links
  - [[ FAQ ]]—Answers to some of the most commonly asked questions
  - [[ Practice & Challenges ]]—How to improve your CS skills
- - [[Never Fear | I'm struggling in CS/I don't know if CS is right for me]]—Never fear
- - [[ meta | About this wiki ]]
  - [[ Contributing Guide ]] and [[ List of Contributors ]]
- - [ACSU Readme](https://goo.gl/P0jvhO)—An intro to the major for prefrosh/underclassmen, by ACSU
 
 ## CS Community Pages
  - [Cornell CS Facebook Group](https://www.facebook.com/groups/CornellCS/)—Q&A, interesting links, and discussion
  - [Cornell CS Polls](https://www.facebook.com/groups/cucspolls/)—For fun or for surveys
  - [ACSU Website](http://www.acsu.cornell.edu)
- - [OpenSourceCornell](https://www.facebook.com/opensourcecornell)—Some of whose members now maintain this wiki (and [[Contributing Guide | you can, too]]!)
  - [ISSA](http://issa.infosci.cornell.edu)—Information Science Student Association
  - [URMC](https://www.facebook.com/groups/cornellurmc/)—Under-Represented Minorities in Computing
  - [WICC](http://wicc.acm.org)—Women in Computing at Cornell
  - [ACSU Facebook Page](https://www.facebook.com/CornellACSU)
  - [Awesome Cornell](https://github.com/OpenSourceCornell/awesome-cornell)—Awesome (open source!) projects by your fellow Cornellians
- - [Your CS Career 2014](https://github.com/bcuccioli/superstar-talk/raw/master/pres.pdf)
 
-## The CS Major/Minor
-
-- [[ New Students Guide | Starting Out]]
-- [[Graduation Requirements]]
-- [[Choosing a Vector]]
-- [[Choosing a Practicum]]
 
 ## CS Classes
 
 - [[What do I take next?]]
 - [[ New Students Guide | I'm an incoming freshman ]]
-- [[ Transfer Students Guide | I'm an incoming transfer ]]
-- [[ New Major Guide | I'm new to the major ]]
-- [[ Minor Guide | I'm thinking about a minor ]]
-- [[ Game Design Minor Guide | I'm thinking about the game design minor ]]
 
 ### 1000
  - [CS 1110—Introduction to Computing Using Python]({{ site.baseurl }}/classes/CS1110.html)
@@ -213,5 +198,4 @@ This is not an exhaustive list. Many areas of mathematics are used in CS somehow
 
 ## Getting Involved in CS/Open Source
 - [[ Opportunities | What sorts of opportunities are available, and how do I find them? ]]
-- [[ Campus CS Guide | How do I get involved on campus? ]]
 - [How do I get involved in open source?](https://opensource.guide/)
