@@ -156,8 +156,8 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [INFO 4430](https://classes.cornell.edu/browse/roster/FA16/class/INFO/4430)—Teams and Technology
 
 ### ECE
-- [[ECE 2300]]-Digital Logic and Computer Organization (sometimes taken with [[ CS 3420 | CS 3420 ]] as an alternative to [[ CS 3410 | CS 3410 ]])
-- [[ECE 2400]]-Computer Systems Programming
+- [[ECE 2300]]—Digital Logic and Computer Organization (sometimes taken with [[ CS 3420 | CS 3420 ]] as an alternative to [[ CS 3410 | CS 3410 ]])
+- [[ECE 2400]]—Computer Systems Programming
 
 ### Math
  - [Required to affliate]({{ site.baseurl }}/classes/MATHRequired.html) - MATH 1110/1120/1220/1910/1920
