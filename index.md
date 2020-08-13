@@ -20,12 +20,12 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 ## CS Community Pages
  - [Cornell CS Facebook Group](https://www.facebook.com/groups/CornellCS/)—Q&A, interesting links, and discussion
  - [Cornell CS Polls](https://www.facebook.com/groups/cucspolls/)—For fun or for surveys
- - [ACSU](http://www.acsu.cornell.edu)
+ - [ACSU](http://www.acsu.cornell.edu)—The Association of Computer Science Undergraduates
  - [ISSA](http://issa.infosci.cornell.edu)—Information Science Student Association
  - [URMC](https://urmc-website.herokuapp.com/)—Under-Represented Minorities in Computing
  - [WICC](http://wicc.acm.org)—Women in Computing at Cornell
  - [Awesome Cornell](https://github.com/OpenSourceCornell/awesome-cornell)—Awesome (open source!) projects by your fellow Cornellians
- - [[CS 0000 Piazza]]
+ - [CS 0000 Piazza](https://gmail.us20.list-manage.com/track/click?u=afdc8af6452afba83982af960&id=8bbcc79f0f&e=34a0f53301)
 
 ## CS Classes
 
