@@ -146,10 +146,12 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 
 ### InfoSci
  - [[INFO 1200]]—Information Ethics, Law, and Policy
+ - [[INFO 1300]]
+ - [[INFO 2300]]
  - [[INFO 2450]]—Communication and Technology
  - [[INFO 2950]]—Introduction to Data Science
  - [[INFO 3200]]—New Media and Society
- - [INFO 3300]({{ site.baseurl }}/classes/CS3300.html)—Data Driven Web Applications (crosslisted as CS 3300)
+ - [[INFO 3300]]
  - [[INFO 4240]]—Designing Technology for Social Impact
  - [[INFO 4320]]—Introduction to Rapid Prototyping and Physical Computing
  - [[INFO 4430]]—Teams and Technology
@@ -166,8 +168,8 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [Classes sometimes required for CS classes]({{ site.baseurl }}/classes/MATHSometimes.html) - MATH 2210/2220/2230/2240/2310/2930/2940
  - [[MATH 3360]]—Applicable Algebra
  - [[MATH 4240]]—Wavelets and Fourier Series
- - [MATH 4250]({{ site.baseurl }}/classes/CS4210.html)—Numerical Analysis and Differential Equations (crosslisted as CS4210)
- - [MATH 4260]({{ site.baseurl }}/classes/CS4220.html)—Numerical Analysis: Linear and Nonlinear Equations (crosslisted as CS4220)
+ - [[MATH 4250]]
+ - [[MATH 4260]]
  - [[MATH 4410]]—Introduction to Combinatorics I
  - [[MATH 4420]]—Introduction to Combinatorics II
  - [[MATH 4710]]—Basic Probability
