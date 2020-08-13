@@ -13,7 +13,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 ## Handy Links
  - [[ FAQ ]]—Answers to some of the most commonly asked questions
  - [[ New Students Guide | I'm an incoming freshman ]]
- - [[What do I take next?]]
+ - [[ What do I take next?] ]
  - [[ Practice & Challenges ]]—How to improve your CS skills
  - [[ Contributing Guide ]] and [[ List of Contributors ]]
 
@@ -157,6 +157,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [[INFO 4430]]—Teams and Technology
 
 ### ECE
+[ECE Wiki](https://ece.fandom.com/wiki/Cornell_ECE_Wiki)
 - [[ECE 2300]]—Digital Logic and Computer Organization (sometimes taken with [[ CS 3420 | CS 3420 ]] as an alternative to [[ CS 3410 | CS 3410 ]])
 - [[ECE 2400]]—Computer Systems Programming
 - [[ECE 3140]]
