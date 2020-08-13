@@ -60,69 +60,68 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [[CS 2850]]
 
 ### 3000
- - [CS 3110—Data Structures and Functional Programming]({{ site.baseurl }}/classes/CS3110.html)
+ - [[CS 3110]]
  - [[CS 3152]]—Introduction to Computer Game Architecture
- - [CS 3300—Data-Driven Web Applications]({{ site.baseurl }}/classes/CS3300.html)
- - [CS 3410—Computer System Organization and Programming]({{ site.baseurl }}/classes/CS3410.html)
- - [CS 3420—Embedded Systems]({{ site.baseurl }}/classes/CS3420.html)
+ - [[CS 3300]]
+ - [[CS 3410]]
+ - [[CS 3420]]
  - [CS 3740—Computational Linguistics]({{ site.baseurl }}/classes/CS3740.html)
- - [CS 3758—Autonomous Mobile Robots]({{ site.baseurl }}/classes/CS3758.html)
+ - [[CS 3758]]
 
 ### 4000
- - [CS 4110—Programming Languages and Logics]({{ site.baseurl }}/classes/CS4110.html)
- - [CS 4120—Introduction to Compilers]({{ site.baseurl }}/classes/CS4120.html)
- - [CS 4121—Practicum in Compilers]({{ site.baseurl }}/classes/CS4121.html)
+ - [[CS 4110]]
+ - [[CS 4120]]
+ - [[CS 4121]]
  - [[CS 4152]]—Advanced Topics in Computer Game Architecture
  - [[CS 4154]]
  - [[CS 4160]]—Formal Verification
- - [CS 4210—Numerical Analysis and Differential Equations]({{ site.baseurl }}/classes/CS4210.html)
- - [CS 4220—Numerical Analysis: Linear and Nonlinear Problems]({{ site.baseurl }}/classes/CS4220.html)
+ - [[CS 4210]]
+ - [[CS 4220]]
  - [[CS 4300]]—Information Retrieval
  - [[CS 4302]]—Web Information Systems
- - [CS 4320—Introduction to Database Systems]({{ site.baseurl }}/classes/CS4320.html)
+ - [[CS 4320]]
  - [[CS 4321]]—Practicum in Database Systems
- - [CS 4410—Operating Systems]({{ site.baseurl }}/classes/CS4410.html)
- - [CS 4411—Practicum in Operating Systems]({{ site.baseurl }}/classes/CS4411.html)
- - [CS 4420—Computer Architecture]({{ site.baseurl }}/classes/CS4420.html)
- - [CS 4620—Introduction to Computer Graphics]({{ site.baseurl }}/classes/CS4620.html)
+ - [[CS 4410]]
+ - [[CS 4411]]
+ - [[CS 4420]]
+ - [[CS 4620]]
  - [[CS 4621]]—Computer Graphics Practicum
- - [CS 4670—Introduction to Computer Vision]({{ site.baseurl }}/classes/CS4670.html)
- - [CS 4700—Foundations of Artificial Intelligence]({{ site.baseurl }}/classes/CS4700.html)
- - [CS 4701—Practicum in Artificial Intelligence]({{ site.baseurl }}/classes/CS4701.html)
+ - [[CS 4670]]
+ - [[CS 4700]]
+ - [[CS 4701]]
  - [[CS 4740]]
  - [[CS 4750]]
- - [CS 4758—Robot Learning]({{ site.baseurl }}/classes/CS4758.html)
- - [CS 4775—Computational Genetics and Genomics]({{ site.baseurl }}/classes/CS4775.html)
- - [CS 4780—Machine Learning]({{ site.baseurl }}/classes/CS4780.html)
- - [CS 4786—Machine Learning for Data Science]({{ site.baseurl }}/classes/CS4786.html)
- - [CS 4810—Introduction to Theory of Computing]({{ site.baseurl }}/classes/CS4810.html)
- - [CS 4812—Quantum Information Processing]({{ site.baseurl }}/classes/CS4812.html)
- - [CS 4820—Introduction to Algorithms]({{ site.baseurl }}/classes/CS4820.html)
- - [CS 4830—Introduction to Cryptography]({{ site.baseurl }}/classes/CS4830.html)
- - [CS 4850—Mathematical Foundations for the Information Age]({{ site.baseurl }}/classes/CS4850.html)
- - [CS 4852—Networks II]({{ site.baseurl }}/classes/CS4852.html)
+ - [[CS 4758]]
+ - [[CS 4775]]
+ - [[CS 4780]]
+ - [[CS 4786]]
+ - [[CS 4810]]
+ - [[CS 4812]]
+ - [[CS 4820]]
+ - [[CS 4830]]
+ - [[CS 4850]]
+ - [[CS 4852]]
  - [[CS 4860]]—Applied Logic
 
 ### 5000
  - [[CS 5114]]—Network Programming Languages
- - [CS 5150—Software Engineering]({{ site.baseurl }}/classes/CS5150.html)
+ - [[CS 5150]]
  - [[CS 5152]]
- - [CS 5220—Applications of Parallel Computers]({{site.baseurl}}/classes/CS5220.html)
+ - [[CS 5220]]
  - [[CS 5300]]—The Architecture of Large - Scale Information Systems
- - [CS 5412—Cloud Computing]({{ site.baseurl }}/classes/CS5412.html)
+ - [[CS 5412]]
  - [[CS 5414]]—Distributed Computing Principles
- - [CS 5430—System Security]({{ site.baseurl }}/classes/CS5430.html)
+ - [[CS 5430]]
  - [[CS 5432]]—Physical Computing
  - [[CS 5434]]—Defending Computer Networks
- - [CS 5540—Computational Techniques for Analyzing Clinical Data]({{ site.baseurl }}/classes/CS5540.html)
- - [CS 5625—Interactive Computer Graphics]({{ site.baseurl }}/classes/CS5625.html)
+ - [[CS 5540]]
+ - [[CS 5625]]
  - [[CS 5643]]—Physically Based Animation for Computer Graphics
  - [[CS 5724]]—Evolutionary Computation
- - [CS 5786—Machine Learning for Data Science]({{ site.baseurl }}/classes/CS4786.html)
  - [[CS 5846]]—Decision Theory I
 
 ### 6000
- - [CS 6110—Advanced Programming Languages]({{ site.baseurl }}/classes/CS6110.html)
+ - [[CS 6110]]
  - [[CS 6114]]—Network Programming Languages
  - [[CS 6117]]
  - [[CS 6210]]—Matrix Computations
@@ -137,23 +136,23 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [[CS 6766]]—Reasoning about Uncertainty
  - [[CS 6780]]—Advanced Machine Learning
  - [[CS 6810]]—Theory of Computing
- - [CS 6820—Analysis of Algorithms]({{ site.baseurl }}/classes/CS6820.html)
- - [CS 6825—The Science Base for the Information Age]({{ site.baseurl }}/classes/CS6825.html)
+ - [[CS 6820]]
+ - [[CS 6825]]
  - [[CS 6830]]—Cryptography
- - [CS 6840—Algorithmic Game Theory]({{ site.baseurl }}/classes/CS6840.html)
- - [CS 6850—The Structure of Information Networks]({{ site.baseurl }}/classes/CS6850.html)
+ - [[CS 6840]]
+ - [[CS 6850]]
 
 ## CS-Related Classes
 
 ### InfoSci
- - [INFO 1200](https://classes.cornell.edu/browse/roster/SP17/class/INFO/1200)—Information Ethics, Law, and Policy
- - [INFO 2450](https://classes.cornell.edu/browse/roster/FA16/class/INFO/2450)—Communication and Technology
- - [INFO 2950](https://classes.cornell.edu/browse/roster/SP17/class/INFO/2950)—Introduction to Data Science
- - [INFO 3200](https://classes.cornell.edu/browse/roster/SP17/class/INFO/3200)—New Media and Society
+ - [[INFO 1200]]—Information Ethics, Law, and Policy
+ - [[INFO 2450]]—Communication and Technology
+ - [[INFO 2950]]—Introduction to Data Science
+ - [[INFO 3200]]—New Media and Society
  - [INFO 3300]({{ site.baseurl }}/classes/CS3300.html)—Data Driven Web Applications (crosslisted as CS 3300)
- - [INFO 4240](https://classes.cornell.edu/browse/roster/FA16/class/INFO/4240)—Designing Technology for Social Impact
- - [INFO 4320](https://classes.cornell.edu/browse/roster/FA16/class/INFO/4320)—Introduction to Rapid Prototyping and Physical Computing
- - [INFO 4430](https://classes.cornell.edu/browse/roster/FA16/class/INFO/4430)—Teams and Technology
+ - [[INFO 4240]]—Designing Technology for Social Impact
+ - [[INFO 4320]]—Introduction to Rapid Prototyping and Physical Computing
+ - [[INFO 4430]]—Teams and Technology
 
 ### ECE
 - [[ECE 2300]]—Digital Logic and Computer Organization (sometimes taken with [[ CS 3420 | CS 3420 ]] as an alternative to [[ CS 3410 | CS 3410 ]])
