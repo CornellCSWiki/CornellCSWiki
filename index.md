@@ -12,25 +12,22 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 
 ## Handy Links
  - [[ FAQ ]]—Answers to some of the most commonly asked questions
+ - [[ New Students Guide | I'm an incoming freshman ]]
+ - [[What do I take next?]]
  - [[ Practice & Challenges ]]—How to improve your CS skills
  - [[ Contributing Guide ]] and [[ List of Contributors ]]
 
 ## CS Community Pages
  - [Cornell CS Facebook Group](https://www.facebook.com/groups/CornellCS/)—Q&A, interesting links, and discussion
  - [Cornell CS Polls](https://www.facebook.com/groups/cucspolls/)—For fun or for surveys
- - [ACSU Website](http://www.acsu.cornell.edu)
+ - [ACSU](http://www.acsu.cornell.edu)
  - [ISSA](http://issa.infosci.cornell.edu)—Information Science Student Association
- - [URMC](https://www.facebook.com/groups/cornellurmc/)—Under-Represented Minorities in Computing
+ - [URMC](https://urmc-website.herokuapp.com/)—Under-Represented Minorities in Computing
  - [WICC](http://wicc.acm.org)—Women in Computing at Cornell
- - [ACSU Facebook Page](https://www.facebook.com/CornellACSU)
  - [Awesome Cornell](https://github.com/OpenSourceCornell/awesome-cornell)—Awesome (open source!) projects by your fellow Cornellians
  - [[CS 0000 Piazza]]
 
-
 ## CS Classes
-
-- [[What do I take next?]]
-- [[ New Students Guide | I'm an incoming freshman ]]
 
 ### 1000
  - [CS 1110—Introduction to Computing Using Python]({{ site.baseurl }}/classes/CS1110.html)
@@ -158,11 +155,6 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [INFO 4320](https://classes.cornell.edu/browse/roster/FA16/class/INFO/4320)—Introduction to Rapid Prototyping and Physical Computing
  - [INFO 4430](https://classes.cornell.edu/browse/roster/FA16/class/INFO/4430)—Teams and Technology
 
-### ORIE
-- [[ORIE 4740]]-Statistical Data Mining
-- [[ORIE 4741]]-Learning with Big Messy Data
-- [[ORIE 4742]]-Information Theory, Probabilistic Modeling, & Deep Learning with Scientific & Financial Applications
-
 ### ECE
 - [[ECE 2300]]-Digital Logic and Computer Organization (sometimes taken with [[ CS 3420 | CS 3420 ]] as an alternative to [[ CS 3410 | CS 3410 ]])
 - [[ECE 2400]]-Computer Systems Programming
@@ -182,8 +174,14 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [[MATH 4820]]—Topics in Logic and the Foundations of Mathematics
  - [[MATH 4860]]—Applied Logic (crosslisted as CS4860)
 
-### Other
+### ORIE
+- [[ORIE 4740]]—Statistical Data Mining
+- [[ORIE 4741]]—Learning with Big Messy Data
+- [[ORIE 4742]]—Information Theory, Probabilistic Modeling, & Deep Learning with Scientific & Financial Applications
+
+### BTRY
  - [[BTRY 3080]]—Probability Models and Inference
+ - [[BTRY 4090]]—Theory of Statistics
 
 This is not an exhaustive list. Many areas of mathematics are used in CS somehow, some specific examples being number theory (cryptography), manifolds (optimisation), geometry (linear programming), and linear algebra (numerical methods).
 
