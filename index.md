@@ -30,34 +30,34 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 ## CS Classes
 
 ### 1000
- - [CS 1110—Introduction to Computing Using Python]({{ site.baseurl }}/classes/CS1110.html)
- - [CS 1112—Introduction to Computing Using MATLAB]({{ site.baseurl }}/classes/CS1112.html)
- - [CS 1114—Introduction to Computing Using MATLAB and Robotics]({{ site.baseurl }}/classes/CS1114.html)
- - [CS 1115—Introduction to Computational Science and Engineering Using MATLAB Graphical User Iterfaces]({{ site.baseurl }}/classes/CS1115.html)
- - [CS 1132—Transition to MATLAB]({{ site.baseurl }}/classes/CS1132.html)
- - [CS 1133—Transition to Python]({{ site.baseurl }}/classes/CS1133.html)
+ - [[CS 1110]]
+ - [[CS 1112]]
+ - [[CS 1114]]
+ - [[CS 1115]]
+ - [[CS 1132]]
+ - [[CS 1133]]
  - [[CS 1300]]
- - [CS 1610—Computing in the Arts]({{ site.baseurl }}/classes/CS1610.html)
+ - [[CS 1610]]
  - [[CS 1620]]—Visual Imaging in the Electronic Age
- - [CS 1710—Introduction to Cognitive Science]({{ site.baseurl }}/classes/CS1710.html)
- - [CS 1810—Topics in the Analysis and Transmission of Knowledge and Information]({{ site.baseurl }}/classes/CS1810.html)
+ - [[CS 1710]]
+ - [[CS 1810]]
  - [[CS 1830]]—Voting: Does Democracy Have a Voice?
 
 ### 2000
- - [CS 2022—Introduction to C]({{ site.baseurl }}/classes/CS2022.html)
- - [CS 2024—C++ Programming]({{ site.baseurl }}/classes/CS2024.html)
- - [CS 2026—Introduction to C Sharp]({{ site.baseurl }}/classes/CS2026.html)
- - [CS 2042—UNIX Tools]({{ site.baseurl }}/classes/CS2042.html)
- - [CS 2043—UNIX Tools and Scripting]({{ site.baseurl }}/classes/CS2043.html)
- - [CS 2044—Advanced UNIX Programming and Tools]({{ site.baseurl }}/classes/CS2044.html)
+ - [[CS 2022]]
+ - [[CS 2024]]
+ - [[CS 2026]]
+ - [[CS 2042]]
+ - [[CS 2043]]
+ - [[CS 2044]]
  - [[CS 2048]]—Introduction to iPhone App Development
- - [CS 2110—Object-Oriented Programming and Data Structures]({{ site.baseurl }}/classes/CS2110.html)
- - [CS 2111—Java Practicum]({{ site.baseurl }}/classes/CS2111.html)
- - [CS 2112—Object-Oriented Programming and Data Structures - Honors]({{ site.baseurl }}/classes/CS2112.html)
- - [CS 2300—Intermediate Design and Programming for the Web]({{ site.baseurl }}/classes/CS2300.html)
- - [CS 2800—Discrete Structures]({{ site.baseurl }}/classes/CS2800.html)
+ - [[CS 2110]]
+ - [[CS 2111]]
+ - [[CS 2112]]
+ - [[CS 2300]]
+ - [[CS 2800]]
  - [[CS 2802]]—Discrete Structures - Honors
- - [CS 2850—Networks]({{ site.baseurl }}/classes/CS2850.html)
+ - [[CS 2850]]
 
 ### 3000
  - [CS 3110—Data Structures and Functional Programming]({{ site.baseurl }}/classes/CS3110.html)
