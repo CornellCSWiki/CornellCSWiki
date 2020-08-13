@@ -65,7 +65,6 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [[CS 3300]]
  - [[CS 3410]]
  - [[CS 3420]]
- - [CS 3740—Computational Linguistics]({{ site.baseurl }}/classes/CS3740.html)
  - [[CS 3758]]
 
 ### 4000
@@ -90,6 +89,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [[CS 4700]]
  - [[CS 4701]]
  - [[CS 4740]]
+ - [[CS 4744]]
  - [[CS 4750]]
  - [[CS 4758]]
  - [[CS 4775]]
@@ -159,6 +159,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 ### ECE
 - [[ECE 2300]]—Digital Logic and Computer Organization (sometimes taken with [[ CS 3420 | CS 3420 ]] as an alternative to [[ CS 3410 | CS 3410 ]])
 - [[ECE 2400]]—Computer Systems Programming
+- [[ECE 3140]]
 - [[ECE 4740]]—Digital VLSI Design
 - [[ECE 4750]]—Computer Architecture
 - [[ECE 4760]]—Digital Systems Design Using Microcontrollers
