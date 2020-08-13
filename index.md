@@ -24,6 +24,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [WICC](http://wicc.acm.org)—Women in Computing at Cornell
  - [ACSU Facebook Page](https://www.facebook.com/CornellACSU)
  - [Awesome Cornell](https://github.com/OpenSourceCornell/awesome-cornell)—Awesome (open source!) projects by your fellow Cornellians
+ - [[CS 0000 Piazza]]
 
 
 ## CS Classes
@@ -187,10 +188,10 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 This is not an exhaustive list. Many areas of mathematics are used in CS somehow, some specific examples being number theory (cryptography), manifolds (optimisation), geometry (linear programming), and linear algebra (numerical methods).
 
 ## Clubs and Project Teams
-- [[Cornell Data Science]]
-- [[CUAppDev]]
-- [[Cornell Design and Tech Initiative]]
-- [[Cornell CS+Social Good]]
+- [Cornell Data Science](https://cornelldata.science/)
+- [CUAppDev](https://www.cornellappdev.com/)
+- [Cornell Design and Tech Initiative](https://www.cornelldti.org/)
+- [Cornell CS+Social Good](https://www.facebook.com/cornellcs4good/)
 
 ## Hackathons
 - [Big Red Hacks](https://bigredhacks.com/)
