@@ -110,4 +110,4 @@ In Git, all your code lives in a *repository*. A repository can be copied on Git
 
 ## Joining the Team
 
-As you've no doubt noticed, this is a student-run wiki. We do have some reviewing and moderation—this is just to keep out spam, and so that we can introduce people to open source/Git as well. If you're interested in working with us, drop us an [email](mailto:{{ site.moderators_email }}), or come find us (we hang around OpenSourceCornell, mostly).
+As you've no doubt noticed, this is a student-run wiki. We do have some reviewing and moderation—this is just to keep out spam, and so that we can introduce people to open source/Git as well. If you're interested in working with us, drop us an [email](mailto:{{ site.moderators_email }}).
