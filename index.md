@@ -101,7 +101,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [[CS 4830]]
  - [[CS 4850]]
  - [[CS 4852]]
- - [[CS 4860]]—Applied Logic
+ - [[CS 4860]]
 
 ### 5000
  - [[CS 5114]]—Network Programming Languages
@@ -178,7 +178,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [[MATH 4720]]—Statistics
  - [[MATH 4810]]—Mathematical Logic
  - [[MATH 4820]]—Topics in Logic and the Foundations of Mathematics
- - [[MATH 4860]]—Applied Logic (crosslisted as CS4860)
+ - [[MATH 4860]]
 
 ### ORIE
 - [[ORIE 4740]]—Statistical Data Mining
