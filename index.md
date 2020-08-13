@@ -158,6 +158,9 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 ### ECE
 - [[ECE 2300]]—Digital Logic and Computer Organization (sometimes taken with [[ CS 3420 | CS 3420 ]] as an alternative to [[ CS 3410 | CS 3410 ]])
 - [[ECE 2400]]—Computer Systems Programming
+- [[ECE 4740]]—Digital VLSI Design
+- [[ECE 4750]]—Computer Architecture
+- [[ECE 4760]]—Digital Systems Design Using Microcontrollers
 
 ### Math
  - [Required to affliate]({{ site.baseurl }}/classes/MATHRequired.html) - MATH 1110/1120/1220/1910/1920
