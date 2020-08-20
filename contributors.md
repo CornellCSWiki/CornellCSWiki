@@ -55,3 +55,7 @@ Contributors, listed by month of first contribution:
 
 - David Kim
 - Peter Wu
+
+## Summer 2020
+
+- Isabel Selin
