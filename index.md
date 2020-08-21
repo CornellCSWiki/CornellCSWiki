@@ -13,7 +13,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 ## Handy Links
  - [[ FAQ ]]—Answers to some of the most commonly asked questions
  - [[ New Students Guide | I'm an incoming freshman ]]
- - [[ What do I take next?] ]
+ - [[ What do I take next? ]]
  - [[ Practice & Challenges ]]—How to improve your CS skills
  - [[ Contributing Guide ]] and [[ List of Contributors ]]
 
