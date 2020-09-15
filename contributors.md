@@ -59,3 +59,7 @@ Contributors, listed by month of first contribution:
 ## Summer 2020
 
 - Isabel Selin
+
+## Fall 2020
+
+- Andrew Gao <3
