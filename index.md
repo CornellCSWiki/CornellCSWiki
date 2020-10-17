@@ -31,12 +31,17 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 
 ## CS Classes
 
+| Tag                            | Description                               |
+| ------------------------------ | ----------------------------------------- |
+| <span class="tag">Core</span>  | Core and Introductory Programming Classes |
+| <span class="tag">Core+</span> | Honors or Alternative Core Classes        |
+
 ### 1000
 
-- [[CS 1110]]
-- [[CS 1112]]
-- [[CS 1114]]
-- [[CS 1115]]
+- <span class="tag">Core</span>[[CS 1110]]
+- <span class="tag">Core+</span>[[CS 1112]]
+- <span class="tag">Core+</span>[[CS 1114]]
+- <span class="tag">Core+</span>[[CS 1115]]
 - [[CS 1132]]
 - [[CS 1133]]
 - [[CS 1300]]
@@ -55,9 +60,9 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 - [[CS 2043]]
 - [[CS 2044]]
 - [[CS 2048]]—Introduction to iPhone App Development
-- [[CS 2110]]
+- <span class="tag">Core</span>[[CS 2110]]
 - [[CS 2111]]
-- [[CS 2112]]
+- <span class="tag">Core+</span>[[CS 2112]]
 - [[CS 2300]]
 - <span class="tag">Core</span>[[CS 2800]]
 - <span class="tag">Core+</span>[[CS 2802]]—Discrete Structures - Honors
