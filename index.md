@@ -36,6 +36,8 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 | <span class="tag">Core</span>  | Core and Introductory Programming Classes |
 | <span class="tag">Core+</span> | Honors or Alternative Core Classes        |
 
+Please check the course roster for official, up-to-date information. The Wiki is meant to supplement official sources with student insights, not replace them.
+
 ### 1000
 
 - <span class="tag">Core</span>[[CS 1110]]
@@ -179,8 +181,6 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 
 - [[BTRY 3080]]-Probability Models and Inference
 - [[BTRY 4090]]-Theory of Statistics
-
-This is not an exhaustive list. Many areas of mathematics are used in CS somehow, some specific examples being number theory (cryptography), manifolds (optimisation), geometry (linear programming), and linear algebra (numerical methods).
 
 ## Clubs and Project Teams
 
