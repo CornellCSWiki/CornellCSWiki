@@ -1,5 +1,5 @@
 ---
-title: CS 7777—Template for Class Page
+title: CS 7777 - Template for Class Page
 wikilinks: ["CS alternate-name-for-class-other-than-the-filename", "INFO 7777"]
 layout: article
 ---
