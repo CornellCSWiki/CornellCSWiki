@@ -38,9 +38,9 @@ If you're feeling overwhelmed, [create an issue]({{site.repository_issues}}) and
 
 If you've heard about Git or GitHub and how difficult it can't be, don't worry. GitHub makes it easy with a web interface. Just visit our [repository]({{ site.repository }}) and find the page you want to edit. Then just hit the edit button!
 
-<!-- TODO: add screenshot of the button. How do I/can I do this from the web interface? -->
-
 GitHub will take care of the Git details for you—in particular, it'll automatically fork the project for you. (Curious? Check out [Forking](#forking) below.) You'll then be presented with an editor where you can make changes to your heart's content. This wiki uses Markdown formatting, which you may have heard of before. We have a quick [guide to Markdown below](#about-markdown).
+
+**If you are adding a testimonial, do not forget to include the semester you took the course!**
 
 ## Making a New Page
 

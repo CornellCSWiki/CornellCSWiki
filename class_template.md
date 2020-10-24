@@ -24,6 +24,8 @@ E.g., "Light, just don't leave the projects until the last minute."
 
 E.g., "Quantum Blockchain ML was the best class I've taken at Cornell! The workload was ok and the material was really interesting -- we even went over a proof that P=NP!"
 
+Don't forget to provide the specific semester you took the course!
+
 ## Past Offerings
 
 {:.past-offerings}
