@@ -46,7 +46,6 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 - [[CS 1133]]
 - [[CS 1300]]
 - [[CS 1610]]
-- [[CS 1620]]—Visual Imaging in the Electronic Age
 - [[CS 1710]]
 - [[CS 1830]]
 
@@ -58,13 +57,12 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 - [[CS 2042]]
 - [[CS 2043]]
 - [[CS 2044]]
-- [[CS 2048]]—Introduction to iPhone App Development
 - <span class="tag">Core</span>[[CS 2110]]
 - [[CS 2111]]
 - <span class="tag">Core+</span>[[CS 2112]]
 - [[CS 2300]]
 - <span class="tag">Core</span>[[CS 2800]]
-- <span class="tag">Core+</span>[[CS 2802]]—Discrete Structures - Honors
+- <span class="tag">Core+</span>[[CS 2802]]
 - [[CS 2850]]
 
 ### 3000
@@ -81,20 +79,15 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 - [[CS 4110]]
 - [[CS 4120]]
 - [[CS 4121]]
-- [[CS 4152]]—Advanced Topics in Computer Game Architecture
 - [[CS 4154]]
-- [[CS 4160]]—Formal Verification
+- [[CS 4160]]
 - [[CS 4210]]
 - [[CS 4220]]
-- [[CS 4300]]—Information Retrieval
-- [[CS 4302]]—Web Information Systems
 - [[CS 4320]]
-- [[CS 4321]]—Practicum in Database Systems
 - <span class="tag">Core</span>[[CS 4410]]
 - [[CS 4411]]
 - [[CS 4420]]
 - [[CS 4620]]
-- [[CS 4621]]—Computer Graphics Practicum
 - [[CS 4670]]
 - [[CS 4700]]
 - [[CS 4701]]
@@ -115,42 +108,21 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 
 ### 5000
 
-- [[CS 5114]]—Network Programming Languages
 - [[CS 5150]]
 - [[CS 5152]]
 - [[CS 5220]]
-- [[CS 5300]]—The Architecture of Large - Scale Information Systems
 - [[CS 5412]]
-- [[CS 5414]]—Distributed Computing Principles
 - [[CS 5430]]
-- [[CS 5432]]—Physical Computing
-- [[CS 5434]]—Defending Computer Networks
 - [[CS 5540]]
 - [[CS 5625]]
-- [[CS 5643]]—Physically Based Animation for Computer Graphics
-- [[CS 5724]]—Evolutionary Computation
-- [[CS 5846]]—Decision Theory I
 
 ### 6000
 
 - [[CS 6110]]
-- [[CS 6114]]—Network Programming Languages
 - [[CS 6117]]
-- [[CS 6210]]—Matrix Computations
-- [[CS 6320]]—Advanced Database Systems
 - [[CS 6360]]
-- [[CS 6410]]—Advanced Systems
-- [[CS 6452]]—Datacenter and Network Services
-- [[CS 6630]]—Realistic Image Synthesis
-- [[CS 6640]]—Computational Photography
-- [[CS 6650]]—Computational Motion
-- [[CS 6700]]—Advanced Artificial Intelligence
-- [[CS 6766]]—Reasoning about Uncertainty
-- [[CS 6780]]—Advanced Machine Learning
-- [[CS 6810]]—Theory of Computing
 - [[CS 6820]]
 - [[CS 6825]]
-- [[CS 6830]]—Cryptography
 - [[CS 6840]]
 - [[CS 6850]]
 
