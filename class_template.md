@@ -1,43 +1,33 @@
 ---
 title: CS 7777 - Template for Class Page
-wikilinks: ["CS alternate-name-for-class-other-than-the-filename", "INFO 7777"]
+wikilinks: ["CS alternate/name/for/class/other/than/the/filename", "INFO 7777", "INFO/CS 7777"]
 layout: article
 ---
 
-## General Information
-
-Something about the level of the course. Maybe talk about prerequisites, or similar classes of the same level (e.g. 2110/2112). Taught in Rust.
-
 ## Prerequisites
 
-None, assumes zero programming experience
+E.g., "None, assumes zero programming experience."
 
 ## Topics Covered
 
-- List of things
-- Look at the course website?
-- Personal experience too
-- Rust
-- Did I say Rust?
-- Python is cool too
+- insert topic 1
+- insert topic 2
+- etc.
+- can be stuff officially listed on course website
+- or stuff that was actually talked about in class
 
 ## Workload
 
-Light, just don't leave the projects until the last minute (protip: this applies to *every* CS class)
-
-## General Advice
-
-- More lists
-- Go to office hours!
+E.g., "Light, just don't leave the projects until the last minute."
 
 ## Testimonials
 
-CS 7777 was the most engaging class I ever took. Professor Myers-Bracy-Sirer really knows their stuff.
+E.g., "Quantum Blockchain ML was the best class I've taken at Cornell! The workload was ok and the material was really interesting -- we even went over a proof that P=NP!"
 
 ## Past Offerings
 
 {:.past-offerings}
-| Semester | Time | Professor | Median Grade | Enrollment | Course Page |
-| --- | --- | --- | --- | --- |
-| Spring 2013 | TR 9:05 - 9:55 AM and TR 11:15 AM - 12:05 PM | Myers-Bracy-Sirer | A- | 0 | <http://example.com> |
-|Fall 2012 | TR 9:05 - 9:55 AM and TR 11:15 AM - 12:05 PM | Bracy-Sirer-Myers | B | 0 | <http://example.com> |
+| Semester | Time | Professor | Median Grade |
+| --- | --- | --- |
+| Spring 2013 | ProfessorName | A- |
+| Fall 2012 | ProfessorName | B |
