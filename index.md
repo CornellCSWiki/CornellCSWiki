@@ -48,8 +48,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 - [[CS 1610]]
 - [[CS 1620]]—Visual Imaging in the Electronic Age
 - [[CS 1710]]
-- [[CS 1810]]
-- [[CS 1830]]—Voting: Does Democracy Have a Voice?
+- [[CS 1830]]
 
 ### 2000
 
