@@ -9,20 +9,14 @@ title: FAQ
 ## Courses
 
 ### Should I take CS 2110 or CS 2112?
-Lol, see
 
- - <https://www.facebook.com/groups/CornellCS/permalink/666726063361933/>
- - <https://www.facebook.com/groups/CornellCS/permalink/659733687394504/>
- - <https://www.facebook.com/groups/CornellCS/permalink/598506950183845/>
- - <https://www.facebook.com/groups/CornellCS/permalink/581201841914356/>
-
-tl;dr 2112 is a lot more time and a lot harder, but the general consensus is that it is worth it and you'll get a lot out of it if you're interested in the subject.
+2112 is a lot more time and a lot harder, but the general consensus is that it is worth it if you're very interested in the subject.
 
 ### Should I take CS 3410 or CS 3420?
 CS 3420 has ECE 2300 as a prerequisite, and it is highly recommended you take ECE 2300 before taking CS 3420. The 2300/3420 track is useful if you have an interest in ECE and want to "test the waters" before deciding whether you want to pursue either CS or ECE, or both. If you are confident in your preference for CS, then take 3410, otherwise take ECE 2300 and CS 3420 for a brief detour into ECE.
 
 ### What's the difference between CS 2110/2 and ENGRD 2110/2?
-Same class. CS majors take the ENGRD one to fulfill their ENGRD requirement. Check the handbook!
+Same class. CS majors in Engineering take the ENGRD one to fulfill their ENGRD requirement. Check the handbook!
 
 ### 3110 + 3410, is it doable?
 
@@ -40,12 +34,7 @@ Almost all interviews with software companies will focus on technical questions 
 It helps to go through as many past questions as possible, and to come up with your own solutions to these questions quickly and correctly. The website www.careercup.com is a great resource, and so is the book ''Cracking the Coding Interview'' by Gayle Laakman McDowell.
 
 ## Should I do the CS major in arts or engineering?
-See
- - <https://www.facebook.com/groups/CornellCS/permalink/706992022668670/>
- - <https://www.facebook.com/groups/CornellCS/permalink/754385331262672/>
- - <https://www.facebook.com/groups/CornellCS/permalink/784124428288762/>
-
-tl;dr It doesn't really matter. The only difference is what other requirements you have to complete for each college. An actual breakdown [here](http://www.cs.cornell.edu/undergrad/csmajor).
+It doesn't really matter. The only difference is what other requirements you have to complete for each college. An actual breakdown [here](http://www.cs.cornell.edu/undergrad/csmajor).
 
 ## Should I double Major in CS and ECE?
 
@@ -72,7 +61,4 @@ A double major gives you insight into an extensive array of problems. More educa
 -- Ranjay Krishna (Double Major CS and ECE)
 
 ## Can I take a course if I don't have all the prerequisites?
-Yes. Nobody ever enforces prerequisites. However, it's a good idea to make sure you're at least partially comfortable with any topics that may have been covered in the prerequisites.
-
-## I have a question about the CS Major Requirements.
-Nicole Roy has the answer. Her office is in 110E Gates Hall.
+Usually, yes. Most professors do not enforce prerequisites. However, it's a good idea to make sure you're at least partially comfortable with any topics that may have been covered in the prerequisites.
