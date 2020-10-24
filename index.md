@@ -130,55 +130,55 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 
 ### InfoSci
 
-- [[INFO 1200]]—Information Ethics, Law, and Policy
+- [[INFO 1200]]-Information Ethics, Law, and Policy
 - [[INFO 1300]]
 - [[INFO 2300]]
-- [[INFO 2450]]—Communication and Technology
-- [[INFO 2950]]—Introduction to Data Science
-- [[INFO 3200]]—New Media and Society
+- [[INFO 2450]]-Communication and Technology
+- [[INFO 2950]]-Introduction to Data Science
+- [[INFO 3200]]-New Media and Society
 - [[INFO 3300]]
 - [[INFO 3350]]-Text Mining History and Literature
-- [[INFO 4240]]—Designing Technology for Social Impact
-- [[INFO 4320]]—Introduction to Rapid Prototyping and Physical Computing
-- [[INFO 4430]]—Teams and Technology
+- [[INFO 4240]]-Designing Technology for Social Impact
+- [[INFO 4320]]-Introduction to Rapid Prototyping and Physical Computing
+- [[INFO 4430]]-Teams and Technology
 
 ### ECE
 
 [ECE Wiki](https://ece.fandom.com/wiki/Cornell_ECE_Wiki)
 
-- [[ECE 2300]]—Digital Logic and Computer Organization (sometimes taken with [[ CS 3420 | CS 3420 ]] as an alternative to [[ CS 3410 | CS 3410 ]])
-- [[ECE 2400]]—Computer Systems Programming
+- [[ECE 2300]]-Digital Logic and Computer Organization (sometimes taken with [[ CS 3420 | CS 3420 ]] as an alternative to [[ CS 3410 | CS 3410 ]])
+- [[ECE 2400]]-Computer Systems Programming
 - [[ECE 3140]]
-- [[ECE 4740]]—Digital VLSI Design
-- [[ECE 4750]]—Computer Architecture
-- [[ECE 4760]]—Digital Systems Design Using Microcontrollers
+- [[ECE 4740]]-Digital VLSI Design
+- [[ECE 4750]]-Computer Architecture
+- [[ECE 4760]]-Digital Systems Design Using Microcontrollers
 
 ### Math
 
 - [Required to affliate]({{ site.baseurl }}/classes/MATHRequired.html) - MATH 1110/1120/1220/1910/1920
 - [Classes sometimes required for CS classes]({{ site.baseurl }}/classes/MATHSometimes.html) - MATH 2210/2220/2230/2240/2310/2930/2940
-- [[MATH 3360]]—Applicable Algebra
-- [[MATH 4240]]—Wavelets and Fourier Series
+- [[MATH 3360]]-Applicable Algebra
+- [[MATH 4240]]-Wavelets and Fourier Series
 - [[MATH 4250]]
 - [[MATH 4260]]
-- [[MATH 4410]]—Introduction to Combinatorics I
-- [[MATH 4420]]—Introduction to Combinatorics II
-- [[MATH 4710]]—Basic Probability
-- [[MATH 4720]]—Statistics
-- [[MATH 4810]]—Mathematical Logic
-- [[MATH 4820]]—Topics in Logic and the Foundations of Mathematics
+- [[MATH 4410]]-Introduction to Combinatorics I
+- [[MATH 4420]]-Introduction to Combinatorics II
+- [[MATH 4710]]-Basic Probability
+- [[MATH 4720]]-Statistics
+- [[MATH 4810]]-Mathematical Logic
+- [[MATH 4820]]-Topics in Logic and the Foundations of Mathematics
 - [[MATH 4860]]
 
 ### ORIE
 
-- [[ORIE 4740]]—Statistical Data Mining
-- [[ORIE 4741]]—Learning with Big Messy Data
-- [[ORIE 4742]]—Information Theory, Probabilistic Modeling, & Deep Learning with Scientific & Financial Applications
+- [[ORIE 4740]]-Statistical Data Mining
+- [[ORIE 4741]]-Learning with Big Messy Data
+- [[ORIE 4742]]-Information Theory, Probabilistic Modeling, & Deep Learning with Scientific & Financial Applications
 
 ### BTRY
 
-- [[BTRY 3080]]—Probability Models and Inference
-- [[BTRY 4090]]—Theory of Statistics
+- [[BTRY 3080]]-Probability Models and Inference
+- [[BTRY 4090]]-Theory of Statistics
 
 This is not an exhaustive list. Many areas of mathematics are used in CS somehow, some specific examples being number theory (cryptography), manifolds (optimisation), geometry (linear programming), and linear algebra (numerical methods).
 
