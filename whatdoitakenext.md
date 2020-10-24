@@ -22,20 +22,6 @@ This is difficult to answer, since almost nobody has taken both. Here are some c
 - Many classes (including requirements!) have 3410/3420 as a prerequisite, and you may not want to delay them in order to take 3420.
 - Most people take 3410.
 
-## I Have No Idea, But I Took CS 3xxx
-
-Don't know what to do for electives? Here's a few options.
-
-Programming languages: [[ CS 4110 ]]. Also consider [[ CS 4120 ]] for the implementation (compiler) side of things.
-
-Systems programming: [[ CS 4410 ]], a requirement.
-
-Computer graphics: [[ CS 4620 ]]. Also consider [[ CS 3152 ]] for actually making a game.
-
-Artificial intelligence: [[ CS 4700 ]]. Also consider [[ CS 4740 ]] for the language/linguistics side of things.
-
-Web development: [[ CS 2300 ]] (also, [[ CS 1300 ]], [[ CS 3300 ]]). There may also be mobile app development (or check out [[ CU AppDev ]]).
-
 ## I'm Feeling Ambitious
 
 > Note: any CS class is doable given the right combination of hard work, dedication, and experience. While the classes listed here were feasible for those recommending them, professors and curricula change, and your experience may be different.
