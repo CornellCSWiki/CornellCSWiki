@@ -183,13 +183,29 @@ pre {
 }
 
 /* Custom styles */
+/* by kungpaogao */
 
+/* custom tags, currently used for "Core" tags in `index.md` */
 .tag {
-  background: #d8d8d8;
+  background: #e9e9e9;
   font-size: small;
   padding: 0 0.5rem;
   border-radius: 1rem;
   margin-right: 0.5rem;
+}
+
+/* utility class for setting left margin */
+.ml-1\/2 {
+  margin-left: 0.5rem;
+}
+
+/* used to style the conservation mode banner in `index.md` */
+main#page-content > blockquote {
+  font-style: normal;
+  background: #e9e9e9;
+  margin: 0;
+  padding: 0.5em 2em;
+  font-size: inherit;
 }
 
 /* Emacs syntax highlighting scheme, from Pygments */
