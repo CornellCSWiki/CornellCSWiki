@@ -5,6 +5,8 @@ layout: default
 
 ## Welcome to the Unofficial Cornell Computer Science Wiki
 
+<div class="banner">The Wiki is currently in conservation mode: all content is being maintained, but we are no longer actively seeking new submissions. If you find any errors or misleading information, please let us know or submit a pull request. If you would like to contribute advice or information on a particular course, we recommend that you submit your review to [Rate My Professors](https://www.ratemyprofessors.com/) and [CU Reviews](https://www.cureviews.org/). If you are looking for up-to-date information on courses, we recommend checking the [Class Roster](http://classes.cornell.edu/), the [CS 0000](https://gmail.us20.list-manage.com/track/click?u=afdc8af6452afba83982af960&id=8bbcc79f0f&e=34a0f53301) Piazza forum, and the [r/Cornell](https://www.reddit.com/r/Cornell/) subreddit.</div>
+
 Want to add your thoughts? See a class that needs info? [[ Contributing Guide | Contribute to this wiki!]] This is not limited to only coursework. Contribute any resources or additional pages you think anyone may find useful! If a page does not exist for a class you have taken, please do us all a favor and make one!
 
 - TOC
