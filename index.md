@@ -159,7 +159,6 @@ Please check the course roster for official, up-to-date information. The Wiki is
 
 ### Math
 
-- [Required to affliate]({{ site.baseurl }}/classes/MATHRequired.html) - MATH 1110/1120/1220/1910/1920
 - [Classes sometimes required for CS classes]({{ site.baseurl }}/classes/MATHSometimes.html) - MATH 2210/2220/2230/2240/2310/2930/2940
 - [[MATH 3360]]-Applicable Algebra
 - [[MATH 4240]]-Wavelets and Fourier Series
