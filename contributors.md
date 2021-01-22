@@ -62,4 +62,5 @@ Contributors, listed by month of first contribution:
 
 ## Fall 2020
 
+- Allison Liu (@dragon-girl88)
 - Andrew Gao <3
