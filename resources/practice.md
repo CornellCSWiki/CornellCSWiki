@@ -17,7 +17,7 @@ Are you a computer science student? Need practice coding? Want to learn somethin
 
  - [iOS Tutorials](http://www.raywenderlich.com/) Learn to program with Objective-C and create iOS apps. Tutorials go from beginner level to advanced level (and not much in between), from a basic app to using OpenGL for a 3D app. They are a few tutorials on non-iOS things as well.
  
- - [Udemy](www.https://www.udemy.com) Learn programming languages and frontend development. Udemy features great courses on iOS and Andriod development as well as recap lessons on data structures and algorithms. Suitable for beginners and for coding interview preps.
+ - [Udemy](https://www.udemy.com) Learn programming languages and frontend development. Udemy features great courses on iOS and Andriod development as well as recap lessons on data structures and algorithms. Suitable for beginners and for coding interview preps.
 
  - [Cornell Startups](http://www.cornellstartuplist.com/) Work for some Cornell startups during the semester or over the summer, there are tons of them (you'd be surprised), and you'll get some really valuable experience in both the career and academic world. Great entrepreneurship and programming experience (maybe you'll want to create your own startup!). Experience necessary can vary highly between companies.
 
