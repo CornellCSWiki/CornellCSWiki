@@ -19,6 +19,7 @@ CS 3420 has ECE 2300 as a prerequisite, and it is highly recommended you take EC
 Same class. CS majors in Engineering take the ENGRD one to fulfill their ENGRD requirement. Check the handbook!
 
 ### 3110 + 3410, is it doable?
+No. You will end up dropping one of them mid year so you can survive. You will be taking minimum credits, and you will be sad. There is a reason why cornell professors told cornell students not to do something.
 
 ### Should I take 4410 without 3410 or 3420?
 No. - Everyone
